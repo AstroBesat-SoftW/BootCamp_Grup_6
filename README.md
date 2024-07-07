@@ -154,11 +154,23 @@
 
 </details>
   <details>
-    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <summary><h3>Sprint 1 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
+    <img src="bootcampFiles/sprint_1/sprint_1.jpg" style="max-width: 100%; height: auto;">
+   <img src="bootcampFiles/sprint_1/sprint_2.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/sprint_3.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/sprint_4.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_1.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_2.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_3.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_4.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_5.jpg" style="max-width: 100%; height: auto;">
+  </details>
+  
+ <details>
+    <summary><h3>Sprint 1 - ssssss</h3></summary>
     <img src="bootcampFiles/sprintOne/burndown/10.png" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprintOne/burndown/11.png" style="max-width: 100%; height: auto;">
   </details>
-
 
   - **Sprint Notes**:
     - It has been decided to use `Trello` for project management.
