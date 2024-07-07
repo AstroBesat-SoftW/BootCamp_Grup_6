@@ -74,7 +74,7 @@
 -	Bozulan dünya ikliminde oluşan aşırı sıcaklık ve kuraklık
 -	Bilinçsiz davranışlar nedeniyle (çevreyi kirletme, yangınlar) bitkilerin zarar görmesi
 
-Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
+Bu sorunlara ek olarak Bilgisiz veya kontrolsüz yapılan yetiştirmeleri ekleyebiliriz. Projemiz nedir ve işleyişi...
 </details>
 
 <details>
