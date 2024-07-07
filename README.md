@@ -225,71 +225,79 @@ Hedef kitle bu sayede belirlenmiş olur.
     <img src="bootcampFiles/sprintOne/burndown/11.png" style="max-width: 100%; height: auto;">
   </details>
 
-  - **Sprint Notes**:
-    - It has been decided to use `Trello` for project management.
+  - **Sprint Notları**:
+    - Proje yönetimi için `Jira` kullanılmasına karar verildi.
 
-    - It has been decided to use `Figma` for UI designs.
+    - UI tasarımlarında `Figma` kullanılmasına karar verildi..
 
-    - It has been decided to use `Riverpod` for state management.
+    - Devlet yönetimi için  `Riverpod` kullanılmasına karar verildi.
 
-    - The `MVVM` structure has been set up and it will be proceeded on this basis.
+    - `MVVM` yapısı kurulmuş olup, bu temelde ilerlenecektir.
 
-    - It has been decided to use `Firebase` for the backend, and the `GetX` system for the page routing system.
+    - Veri Tabanı için `Firebase` düşünüldü.
 
-    - It was decided to use `email login` for the login system.
+    - Giriş sistemi için `email login` kullanılmasına karar verildi.
 
-    - It was decided to perform `identity verification` following the login system.
+    - Giriş sisteminin ardından  `kimlik doğrulama` yapılmasına karar verildi.
 
-    - It has been decided to use `Hive` as the local database.
-  - **Expected point completion within Sprint**: 200 points
-  - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
-  - **Daily Scrum**: See file
-  - **Product Backlog URL:** Click for Backlog (Trello)
+   
+  - **Sprint içinde beklenen Puan tamamlama**: 145 Puan 
+  - **Puan Tamamlama Mantığı**: `(95 kısmi tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 200 puan, üçüncü sprintin ise 200 puandır. Bu dönemde Türkiye'de okullarda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlandı.
+  - **Daily Scrum**: Dosyaya bakın
+  - **Ürün İş Listesi URL'si:** Geri Bildirim için tıklayın (Jira)
   - **Sprint Review:**
-    - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
+    - Besat, Bilal, Berivan, arka yüz(backend) ve ön yüz (frontend) için koordineli bir çaba yürüttüler. Ekip içinde bir sonraki sprintte bu şekilde devam etme konusunda anlaştık.
 
-    - We struggled to decide on an application name for a while. We transitioned from 'zaten' to 'zaten' and took another step towards branding by purchasing the 'zaten.app' domain for the name.
+     - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesinde anlaştık.
 
-    - The two biggest problems we encountered in this sprint were difficulty in deciding on a color palette and not having completed the logo yet.
+    - Bir süre uygulama adı konusunda karar vermekte zorlandık. 'bitkim'den 'FloraNabız'e geçtik ve isim için en son 'EcoGuardian: Akıllı Bitki Bakım ve Koruma' olarak kararkıldık bu konuda önemli adım daha atmış olduk.
 
-    - We learned that the FloatingActionButton usage in the BottomNavigationBar and the notched feature of the navigation bar have been removed in Material 3, we overcame this issue by designing it ourselves.
+    - Bu sprintte karşılaştığımız en büyük iki sorun Tasarım ve Esp8266 ile firebase ilişkisidi.
 
-    - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
+    - Arduino Kısmında Firebase kütüphanelerinde sorun ile karşılaştık fakat uzun uğraş ve araştırmalarımız doğruştutunsa kod geliştirdik. Bir kaç düzeltme ve çaba ile bunun üstesinden geldik.
 
-  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
+    -Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık Belirttiğimiz gibi Sınav haftalarımız olduğundan ekipçe tam bir ilerleyiş için ilk sprint puanımızı düşük tuttuk.
+   
+
+  - **Sprint Review Participants:** `Besat Arif Çıngar`, `Berin Irmak Arıkboğa`, `Berivan Dağcı`, `Azra Ece`, `Bilal Enes Söylemez`
   - **Sprint Retrospective:**
-    - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
+    - Mobil Kısmında Besat, Bilal ve Berivan'ın devam etmesine karar verdik.
 
-    - In the second sprint, we decided to write our own API (for location information).
+    - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesine karar verdik.
 
-    - We had to postpone the logo design to the second sprint. We will continue with the design.
+    - İsim kısmını yeni sprintte netleştirmek için çalışmalara başladık.
 
-    - We will continue to develop the local database system (Hive).
+    - uygulama kısmında yapay zeka entegresi ve verilerin analizini ana hedeflerimiz arasına aldık.
 
-    - As Burak and Arda will continue more with software related tasks, much of the project management has been delegated to the remaining team members.
+    - esp8266 kullanarak yaptığımız projenin tamamen devresinin oluşturulmasını yetişme durumuna göre tasarımın (Örnek Ürün) bitmesini hedefledik.
 
-    - In the second sprint, we will start writing a website for the zaten.app domain we bought for brand recognition. This task has been handed over to Onur.
+    - firebase kısmında daha derin araştırma ve incelenmesini kararkaştırdık.
 
-    - It was decided to establish a review system before the product goes live during the second sprint.
+    - Esp8266 Kısmında su dökme ve bunun kontrollü gibi işlemleri oluşturmak için algoritma oluşturmaya karar aldık.
 
-    - For brand recognition and marketing purposes, it was decided to open an Instagram account during the second sprint.
+    - Flutter Kısmında esp8266 kısmından yolladığımız verilerin Daha işlevli kullanılması ve entegre kısmının güçlendirilmesini karar aldık.
 
-    - In addition to email authentication, it was decided to add the Google auth system in the second sprint.
+    - Tasarımın modernleşmesi ve kullanıcı odağının yüksek olması için daha modern tasarım oluşturmak için incelemeler başlattık.
 
-    - It was decided to add test AdMobs in the second sprint.
-
-    - We decided to start localization and the first languages will be English and Turkish.
-
-    - It was decided to add a user-to-user SDK with the Stream Chat SDK in the second sprint.
+    - E-posta kimlik doğrulamasının yanı sıra ikinci sprintte Google kimlik doğrulama sisteminin eklenmesine karar verildi.
 
 
-  - **Other Notes**:
+
+  - **Diğer Notlar**:
   <details>
-    <summary><h3>Additional Files</h3></summary>
+    <summary><h3>Ek Dosyalar</h3></summary>
     <ul>
-      <li><strong>Project Scope And Goals:</strong> <a href="./bootcampFiles/sprintOne/projectscopeandgoals.pdf">See file</a></li>
-      <li><strong>Target Audience:</strong> <a href="./bootcampFiles/sprintOne/targetaudience.pdf">See file</a></li>
-      <li><strong>Conversations:</strong> See file</li>
+      <li><strong>Proje Kapsamı ve Hedefleri</strong> <a href="./bootcampFiles/sprint_1/Proje Tanıtımı ve İşleyişi.pdf">Dosyayı İncele</a></li>
+   ><h3>•	Özet ve Hedef Kitle</h3>
+
+<h3>Bu proje,</h3> sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
+<br>
+Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
+
+Hedef kitle bu sayede belirlenmiş olur.
+
+
+ <li><strong>Konuşmalar</strong> Yukarıda Paylaşıldı</li>
     </ul>
   </details>
 
