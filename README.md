@@ -1,4 +1,8 @@
-<center><h1 style="font-size: 50px;">EcoGuardian  (Akıllı Bitki Bakım ve Koruma)</h1></center>
+<center>
+ 
+ ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/15d8ff33-8d2e-4fe9-aefa-9d52104b9cc7)
+ 
+</center>
  
   # Ekip ve Proje İsmi
 
