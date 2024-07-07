@@ -1,4 +1,4 @@
- <div style="width: 560px; height: 315px;">
+ <div style="width: 60px; height: 35px;">
   
    [![Videoyu İzle](bootcampFiles/team/img/app.png)](https://www.youtube.com/watch?v=XVZ0iFb3eQg)
    
