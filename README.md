@@ -101,10 +101,6 @@
   </details>   
 
 
-
-  <details>
-   <!--  uygulama için altı -->
-
 <!--  uygulama için altı -->
 
 
@@ -152,9 +148,8 @@
     </tr
     
   </table>
-  </details>   
+   
 
-<!-- uygulama son -->
 <!-- uygulama son -->
   </details>
 
