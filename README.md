@@ -1,6 +1,6 @@
 <center>
     <video width="640" height="360" controls>
-        <source src="[/bootcampFiles/team/movie/ecoguardian.mp4](https://youtu.be/XVZ0iFb3eQg)" type="video/mp4">
+        <source src="bootcampFiles/team/movie/ecoguardian.mp4" type="video/mp4">
         Tarayıcınız video etiketini desteklemiyor veya video formatı desteklenmiyor.
     </video>
 </center>
