@@ -58,3 +58,159 @@
     </tr>
    
   </table>
+
+
+  --- 
+
+  ![sprints](bootcampFiles/general/headers/sprints.png)
+
+  <details>
+    <summary><h1>Sprint 1</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 1 - App Screenshots</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Authentication pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/10.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/11.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/12.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Homepage and Location pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/20.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/21.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/22.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Add Product pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/30.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/31.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/32.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/33.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Offers pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/40.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/41.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/42.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/43.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Profile and Settings pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/50.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/51.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/52.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/53.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Rent Product pages</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/60.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/61.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/62.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+  </table>
+  </details>   
+
+
+  <details>
+    <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
+    <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/12.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/13.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/14.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/boardupdate/15.png" style="max-width: 100%; height: auto;">
+  </details>
+
+  <details>
+    <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
+    <img src="bootcampFiles/sprintOne/burndown/10.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprintOne/burndown/11.png" style="max-width: 100%; height: auto;">
+  </details>
+
+
+  - **Sprint Notes**:
+    - It has been decided to use `Trello` for project management.
+
+    - It has been decided to use `Figma` for UI designs.
+
+    - It has been decided to use `Riverpod` for state management.
+
+    - The `MVVM` structure has been set up and it will be proceeded on this basis.
+
+    - It has been decided to use `Firebase` for the backend, and the `GetX` system for the page routing system.
+
+    - It was decided to use `email login` for the login system.
+
+    - It was decided to perform `identity verification` following the login system.
+
+    - It has been decided to use `Hive` as the local database.
+  - **Expected point completion within Sprint**: 200 points
+  - **Point Completion Logic**: `(205 points completed)` The first sprint has a target of 200 points, the second sprint 100 points, and the third sprint 200 points. A lower point target has been set for the second sprint since there is a national holiday in Turkey during this period and all team members are residing in Turkey.
+  - **Daily Scrum**: See file
+  - **Product Backlog URL:** Click for Backlog (Trello)
+  - **Sprint Review:**
+    - Arda and Burak carried out a coordinated effort for the backend and frontend. We have agreed within the team to continue this way in the next sprint.
+
+    - We struggled to decide on an application name for a while. We transitioned from 'zaten' to 'zaten' and took another step towards branding by purchasing the 'zaten.app' domain for the name.
+
+    - The two biggest problems we encountered in this sprint were difficulty in deciding on a color palette and not having completed the logo yet.
+
+    - We learned that the FloatingActionButton usage in the BottomNavigationBar and the notched feature of the navigation bar have been removed in Material 3, we overcame this issue by designing it ourselves.
+
+    - Overall, we believe we had a good sprint process. We experienced a sprint process close to what we planned.
+
+  - **Sprint Review Participants:** `Burak Taha Cevheroğlu`, `Arda Demirel`, `Dila Hazal Bilgin`, `Merve Ağaçayak`, `Onur Konuk`
+  - **Sprint Retrospective:**
+    - In the second sprint, it was decided in the team meeting that only Arda and Burak would write code for mobile.
+
+    - In the second sprint, we decided to write our own API (for location information).
+
+    - We had to postpone the logo design to the second sprint. We will continue with the design.
+
+    - We will continue to develop the local database system (Hive).
+
+    - As Burak and Arda will continue more with software related tasks, much of the project management has been delegated to the remaining team members.
+
+    - In the second sprint, we will start writing a website for the zaten.app domain we bought for brand recognition. This task has been handed over to Onur.
+
+    - It was decided to establish a review system before the product goes live during the second sprint.
+
+    - For brand recognition and marketing purposes, it was decided to open an Instagram account during the second sprint.
+
+    - In addition to email authentication, it was decided to add the Google auth system in the second sprint.
+
+    - It was decided to add test AdMobs in the second sprint.
+
+    - We decided to start localization and the first languages will be English and Turkish.
+
+    - It was decided to add a user-to-user SDK with the Stream Chat SDK in the second sprint.
+
+
+  - **Other Notes**:
+  <details>
+    <summary><h3>Additional Files</h3></summary>
+    <ul>
+      <li><strong>Project Scope And Goals:</strong> <a href="./bootcampFiles/sprintOne/projectscopeandgoals.pdf">See file</a></li>
+      <li><strong>Target Audience:</strong> <a href="./bootcampFiles/sprintOne/targetaudience.pdf">See file</a></li>
+      <li><strong>Conversations:</strong> See file</li>
+    </ul>
+  </details>
+
+  </details>
+
+  ---
