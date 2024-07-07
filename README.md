@@ -1,4 +1,4 @@
-[![Videoyu İzle](bootcampFiles/team/img/team1.png)](https://www.youtube.com/watch?v=XVZ0iFb3eQg)
+[![Videoyu İzle](bootcampFiles/team/img/app.png)](https://www.youtube.com/watch?v=XVZ0iFb3eQg)
 
 
   # Ekip ve Proje İsmi
