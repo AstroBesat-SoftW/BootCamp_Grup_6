@@ -63,7 +63,7 @@
 
   --- 
 
-  <img src="assets/128177174/b10f4433-0a94-4c21-883f-06fcc876cd07" style="width: auto; height: 500px;" >
+  <img src="bootcampFiles/team/sc/sprint.png" style="width: auto; height: 500px;" >
 
 
 
