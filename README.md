@@ -62,8 +62,10 @@
 
 
 <h1>Proje Tanıtımı ve İşleyişi</h1>
+<details>
+    <summary><h3>•	Giriş</h3></summary>
 
-<h3>•	Giriş</h3>
+
 
 İlk proje için belirli bir alan gerekli. Bunun için büyük bir alan yerine küçük bir alandan başlamak ve ardından büyüyen ağaç mantığında ilerlemek istedik. Bildiğiniz gibi, AVL ağaç mantığında üstsel bir yapı düşündük. Projemizi yaparken ilk olarak sorunları tespit etmemiz gerekti. Günümüz sorunlarından bazıları şunlardır:
 
@@ -73,8 +75,12 @@
 -	Bilinçsiz davranışlar nedeniyle (çevreyi kirletme, yangınlar) bitkilerin zarar görmesi
 
 Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
+</details>
 
-<h3>•	Proje İşleyişi</h3>
+<details>
+    <summary><h3>•	Proje İşleyişi</h3></summary>
+
+
 
 Projemizde ilk olarak bir bitkinin olduğunu varsayalım. Şimdi asıl soruya geçelim: Bu bitkinin sağlıklı kalmasını nasıl sağlayabiliriz?
 
@@ -92,10 +98,14 @@ ESP8266 devresi almak, Arduino kısmında Firebase ve sensörler ile ilgili küt
 
 <h3>5.	Adım: Algoritma ve Yapay Zeka Kullanımı</h3>
 Kullanıcıya özgü işlemler yapmak için algoritmalar oluşturmak gereklidir. Birkaç analiz için algoritmalar oluşturduk fakat analiz için yapay zekayı da dahil ettik. Yapay zeka, verilerin analizi ve tavsiyeler için kullanılacaktır. Ayrıca, hava durumu sistemini de entegre ederek bulunduğu yerin hava durumunu analiz edip erken uyarılar verebiliriz.
+</details>
+
+<details>
+    <summary><h3>•	Özet</h3></summary>
 
 <h3>Bu proje,</h3> sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
 
-
+</details>
 
 
 
