@@ -24,7 +24,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/d11937da-c87f-47e9-8136-2fbd3d57d717)" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/team/img/team2.png" width="50" height="50" /></td>
       <td>Arda Demirel</td>
       <td>Scrum Master</td>
       <td>
@@ -32,7 +32,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/hazal.png" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/team/img/team3.png" width="50" height="50" /></td>
       <td>Dila Hazal Bilgin</td>
       <td>Developer</td>
       <td>
@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/merve.png" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/team/img/team4.png" width="50" height="50" /></td>
       <td>Merve Ağaçayak</td>
       <td>Developer</td>
       <td>
@@ -48,7 +48,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/onur.png" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/team/img/team5.png" width="50" height="50" /></td>
       <td>Onur Konuk</td>
       <td>Developer</td>
       <td>
