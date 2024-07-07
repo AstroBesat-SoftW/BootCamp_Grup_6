@@ -105,8 +105,10 @@
   <details>
    <!--  uygulama için altı -->
 
+<!--  uygulama için altı -->
 
 
+  <details>
     <summary><h3>Sprint 1 - Arduino ve Uygulama İçinden Görseller</h3></summary>
   <table style="width: 100%;">
     <tr>
@@ -150,8 +152,9 @@
     </tr
     
   </table>
- 
+  </details>   
 
+<!-- uygulama son -->
 <!-- uygulama son -->
   </details>
 
