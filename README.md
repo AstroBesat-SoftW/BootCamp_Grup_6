@@ -1,7 +1,7 @@
 <center>
- 
- ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/15d8ff33-8d2e-4fe9-aefa-9d52104b9cc7)
- 
+bootcampFiles/team/movie/ecoguardian.mp4 
+
+ <video src="bootcampFiles/team/movie/ecoguardian.mp4"> </video>
 </center>
  
   # Ekip ve Proje İsmi
