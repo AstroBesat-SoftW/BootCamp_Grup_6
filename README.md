@@ -105,6 +105,9 @@
 
 
   <details>
+    <summary><h1>Sprint 1</h1></summary>
+
+  <details>
     <summary><h3>Sprint 1 - Arduino ve Uygulama İçinden Görseller</h3></summary>
   <table style="width: 100%;">
     <tr>
@@ -152,7 +155,7 @@
 
 <!-- uygulama son -->
 </details>
-
+ </details>
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
     <img src="bootcampFiles/sprintOne/burndown/10.png" style="max-width: 100%; height: auto;">
