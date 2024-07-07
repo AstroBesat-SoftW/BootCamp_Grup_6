@@ -220,9 +220,13 @@ Hedef kitle bu sayede belirlenmiş olur.
   </details>
   
  <details>
-    <summary><h3>Sprint 1 - ssssss</h3></summary>
-    <img src="bootcampFiles/sprintOne/burndown/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/burndown/11.png" style="max-width: 100%; height: auto;">
+    <summary><h3>Sprint 1 - Devreler ve Deneme Aşamaları - Ek Görseller</h3></summary>
+    <img src="bootcampFiles/sprint_1/1.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/2.jpg" style="max-width: 100%; height: auto;">
+       <img src="bootcampFiles/sprint_1/3.jpg" style="max-width: 100%; height: auto;">
+      <img src="bootcampFiles/sprint_1/4.jpg" style="max-width: 100%; height: auto;">
+       <img src="bootcampFiles/sprint_1/5.jpg" style="max-width: 100%; height: auto;">
+       
   </details>
 
   - **Sprint Notları**:
@@ -290,7 +294,7 @@ Hedef kitle bu sayede belirlenmiş olur.
       <li><strong>Proje Kapsamı ve Hedefleri</strong> <a href="./bootcampFiles/sprint_1/Proje Tanıtımı ve İşleyişi.pdf">Dosyayı İncele</a></li>
    ><h3>•	Özet ve Hedef Kitle</h3>
 
-<h3>Bu proje,</h3> sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
+<h3>Bu proje,</h3> Sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
 <br>
 Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
 
