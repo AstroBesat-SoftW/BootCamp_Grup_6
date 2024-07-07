@@ -103,13 +103,56 @@
 
 
   <details>
-    <summary><h3>Sprint 1 - Sprint Board Update Screenshots</h3></summary>
-    <img src="bootcampFiles/sprintOne/boardupdate/10.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/11.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/12.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/13.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/14.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprintOne/boardupdate/15.png" style="max-width: 100%; height: auto;">
+   <!--  uygulama için altı -->
+
+
+
+    <summary><h3>Sprint 1 - Arduino ve Uygulama İçinden Görseller</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Sıcaklık ve Nem Verisinin Arduino (esp8266) ile firebase veri yollama kısmı</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;">
+        
+  ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/4f0d6920-4a85-40bb-9ead-8375f074329c)
+</td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Sensor ölçümlerini kod içinde kullanımı ve ayarlanması.</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;">
+        
+  ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/497e7d83-2c3a-4ce0-a42f-49ac12f35f65)
+</td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Uygulama Ölçülen verilerin Değerlerini Veritabanından Çekip ekranda gösterme</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app0.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Sıcaklık ve Nem değerlerinin geçmiş takibi ve analizi</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app2.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app3.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+ <tr>
+      <td colspan="4" style="text-align: center;"><h2>Kayıt Edilen Verilerin Verileri ve Grafikleri</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app4.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app5.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app6.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr
+    
+  </table>
+ 
+
+<!-- uygulama son -->
   </details>
 
   <details>
