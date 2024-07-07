@@ -234,7 +234,7 @@ Hedef kitle bu sayede belirlenmiş olur.
 
     - UI tasarımlarında `Figma` kullanılmasına karar verildi..
 
-    - Devlet yönetimi için  `Riverpod` kullanılmasına karar verildi.
+    - Durum yönetimi için  `Riverpod` kullanılmasına karar verildi.
 
     - `MVVM` yapısı kurulmuş olup, bu temelde ilerlenecektir.
 
