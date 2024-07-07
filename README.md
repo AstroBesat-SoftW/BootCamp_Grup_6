@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Video Gösterimi</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/XVZ0iFb3eQg" frameborder="0" allowfullscreen></iframe>
-</body>
-</html>
+
+[![Videoyu İzle](https://img.youtube.com/vi/XVZ0iFb3eQg/0.jpg)](https://www.youtube.com/watch?v=XVZ0iFb3eQg)
 
  
   # Ekip ve Proje İsmi
