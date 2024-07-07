@@ -246,7 +246,7 @@ Hedef kitle bu sayede belirlenmiş olur.
 
    
   - **Sprint içinde beklenen Puan tamamlama**: 145 Puan 
-  - **Puan Tamamlama Mantığı**: `(95 kısmi tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 200 puan, üçüncü sprintin ise 200 puandır. Bu dönemde Türkiye'de okullarda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlandı.
+  - **Puan Tamamlama Mantığı**: `(95 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 200 puan, üçüncü sprintin ise 200 puandır. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlandı.
   - **Daily Scrum**: Dosyaya bakın
   - **Ürün İş Listesi URL'si:** Geri Bildirim için tıklayın (Jira)
   - **Sprint Review:**
