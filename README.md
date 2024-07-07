@@ -1,18 +1,18 @@
 <center><h1 style="font-size: 50px;">EcoGuardian  (Akıllı Bitki Bakım ve Koruma)</h1></center>
-# **Team & Product Name**
+# **Ekip ve Ürün Adı**
 
   ### **`EcoGuardian`**
 
-  # Information About Team and Product
+  # Ekip ve Ürün Hakkında Bilgiler
 
-  ## Team Members
+  ## Takım Üyeleri
 
   <table>
     <tr>
       <th></th>
-      <th>Name</th>
-      <th>Title</th>
-      <th>Socials</th>
+      <th>İsim</th>
+      <th>Başlık</th>
+      <th>İletişim</th>
     </tr>
     <tr>
       <td><img src="bootcampFiles/general/squarepics/burak.png" width="50" height="50" /></td>
