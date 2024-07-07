@@ -16,7 +16,7 @@
       <th>İletişim</th>
     </tr>
     <tr>
-      <td><img src="bootcampFiles/general/squarepics/burak.png" width="50" height="50" /></td>
+      <td><img src="bootcampFiles/team/img/team1.png" width="50" height="50" /></td>
       <td>Besat Arif Çıngar</td>
       <td>Product Owner</td>
       <td>
