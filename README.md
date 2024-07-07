@@ -1,7 +1,7 @@
 
-[![Videoyu İzle](https://img.youtube.com/vi/XVZ0iFb3eQg/0.jpg)](https://www.youtube.com/watch?v=XVZ0iFb3eQg)
+[![Videoyu İzle](https://img.youtube.com/vi/-t-hdVaJIqs/0.jpg)](https://www.youtube.com/watch?v=-t-hdVaJIqs)
 
- 
+
   # Ekip ve Proje İsmi
 
   ### **`EcoGuardian`**
