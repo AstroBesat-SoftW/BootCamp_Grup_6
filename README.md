@@ -1,5 +1,5 @@
 
-   <iframe width="640" height="360" src="https://www.youtube.com/embed/XVZ0iFb3eQg" frameborder="0" allowfullscreen></iframe>
+   <iframe width="640" height="360" src="https://www.youtube.com/embed/XVZ0iFb3eQg"></iframe>
 
  
   # Ekip ve Proje İsmi
