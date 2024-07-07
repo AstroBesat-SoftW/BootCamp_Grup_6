@@ -63,7 +63,7 @@
 
   --- 
 
-  <img src="bootcampFiles/team/sc/sprint.png" style="width: auto; height: 500px;" >
+  <img src="bootcampFiles/team/sc/sprint.png" style="width: auto; height: 400px; text-align: center; border-radius: 50%;" >
 
 
 
