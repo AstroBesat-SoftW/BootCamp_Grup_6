@@ -128,9 +128,24 @@
       <td colspan="4" style="text-align: center;"><h2>Uygulama Ölçülen verilerin Değerlerini Veritabanından Çekip ekranda gösterme</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app1.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app0.jpg" style="max-width: 100%; height: auto;"></td>
     </tr>
-
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Sıcaklık ve Nem değerlerinin geçmiş takibi ve analizi</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app2.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app3.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+ <tr>
+      <td colspan="4" style="text-align: center;"><h2>Kayıt Edilen Verilerin Verileri ve Grafikleri</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app4.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app5.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app6.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr
+    
   </table>
   </details>   
 
