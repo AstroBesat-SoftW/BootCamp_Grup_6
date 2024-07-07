@@ -1,5 +1,5 @@
 <center><h1 style="font-size: 50px;">EcoGuardian  (Akıllı Bitki Bakım ve Koruma)</h1></center>
-## **Ekip ve Ürün Adı**
+  # **Team & Product Name**
 
   ### **`EcoGuardian`**
 
