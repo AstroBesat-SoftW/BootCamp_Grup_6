@@ -1,7 +1,7 @@
 <center>
-  <video width="640" height="360" controls>
-        <source src="[bootcampFiles/team/movie/ecoguardian.mp4](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/blob/main/bootcampFiles/team/movie/ecoguardian.mp4)" type="video/mp4">
-        Your browser does not support the video tag.
+    <video width="640" height="360" controls>
+        <source src="/bootcampFiles/team/movie/ecoguardian.mp4" type="video/mp4">
+        Tarayıcınız video etiketini desteklemiyor veya video formatı desteklenmiyor.
     </video>
 </center>
  
