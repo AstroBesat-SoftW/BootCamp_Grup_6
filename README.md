@@ -159,11 +159,11 @@
    <img src="bootcampFiles/sprint_1/sprint_2.jpg" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprint_1/sprint_3.jpg" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprint_1/sprint_4.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_1.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_2.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_3.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_4.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_5.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_1.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_2.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_3.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_4.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_5.png" style="max-width: 100%; height: auto;">
   </details>
   
  <details>
