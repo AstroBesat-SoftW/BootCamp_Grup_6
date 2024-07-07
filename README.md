@@ -73,15 +73,13 @@
 
 
   <details>
-    <summary><h3>Sprint 1 - App Screenshots</h3></summary>
+    <summary><h3>Sprint 1 - Malzemeler</h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Authentication pages</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Esp8266 Uzaktan Kontrollu Sistemler</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/10.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/11.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprintOne/screenshots/12.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun1.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Homepage and Location pages</h2></td>
