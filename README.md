@@ -1,7 +1,8 @@
 <center>
-bootcampFiles/team/movie/ecoguardian.mp4 
-
- <video src="bootcampFiles/team/movie/ecoguardian.mp4"> </video>
+  <video width="640" height="360" controls>
+        <source src="bootcampFiles/team/movie/ecoguardian.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </center>
  
   # Ekip ve Proje İsmi
