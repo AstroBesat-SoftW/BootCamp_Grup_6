@@ -24,8 +24,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/d11937da-c87f-47e9-8136-2fbd3d57d717)
-" width="50" height="50" /></td>
+      <td><img src="![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/d11937da-c87f-47e9-8136-2fbd3d57d717)" width="50" height="50" /></td>
       <td>Arda Demirel</td>
       <td>Scrum Master</td>
       <td>
