@@ -61,6 +61,46 @@
   </table>
 
 
+Proje Tanıtımı ve İşleyişi
+
+•	Giriş
+
+İlk proje için belirli bir alan gerekli. Bunun için büyük bir alan yerine küçük bir alandan başlamak ve ardından büyüyen ağaç mantığında ilerlemek istedik. Bildiğiniz gibi, AVL ağaç mantığında üstsel bir yapı düşündük. Projemizi yaparken ilk olarak sorunları tespit etmemiz gerekti. Günümüz sorunlarından bazıları şunlardır:
+
+-	Sağlıksız gıda
+-	Ürünlerin kuraklıktan zarar görmesi ve yok olması
+-	Bozulan dünya ikliminde oluşan aşırı sıcaklık ve kuraklık
+-	Bilinçsiz davranışlar nedeniyle (çevreyi kirletme, yangınlar) bitkilerin zarar görmesi
+
+Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
+
+•	Proje İşleyişi
+
+Projemizde ilk olarak bir bitkinin olduğunu varsayalım. Şimdi asıl soruya geçelim: Bu bitkinin sağlıklı kalmasını nasıl sağlayabiliriz?
+
+1.	Adım: Sensör Kullanımı
+Sensörler ortamın ve toprağın durumunu analiz edebilir. Bu analizler sayesinde bitkinin ihtiyaçlarını belirlemek mümkündür.
+
+2.	Adım: Analiz ve Algoritmalar
+Sensörlerden gelen verilerin bir sonuca varması gereklidir. Geliştirdiğimiz algoritmalar ve grafikler sayesinde bilgilendirmeler yapabilir ve erken önlemler alabiliriz. Örneğin, toprak kuruluğu belirli bir seviyenin altına düşerse, otomatik olarak devreye giren sulama sistemi gibi. Erken uyarı kullanıcıya bildirilir ve kullanıcı buna karşın önlem alır.
+
+3.	Adım: Uygulama Geliştirme
+Bir uygulamaya ihtiyacımız var. Bu nedenle Flutter kullanarak bir uygulama yazıyoruz. Ancak, sensörlerden ölçülen verileri Flutter uygulamasında nasıl kontrol edebiliriz? İşte burada veri tabanı devreye girer. Arduino kısmında WiFi kartlı bir sistem kullanarak verileri veri tabanına yollayabiliriz. Bu noktada ESP8266 kullanabiliriz. ESP8266, uzaktan kontrollü sistemler için kullanılan, WiFi bağlanabilen ve internet üzerinden veri yollayabilen bir modüldür.
+
+4.	Adım: Verilerin İşlenmesi
+ESP8266 devresi almak, Arduino kısmında Firebase ve sensörler ile ilgili kütüphaneleri yüklemek ve verileri Firebase veri tabanına yollamak gereklidir. Verileri Firebase'den çekerek Flutter uygulamamızda işleyebiliriz. Ardından, Flutter uygulamasından veri tabanına veri yollayarak ESP8266 ile bu verileri çekip işlemler yapabiliriz (örneğin su dökme, ışık kontrolleri gibi).
+
+5.	Adım: Algoritma ve Yapay Zeka Kullanımı
+Kullanıcıya özgü işlemler yapmak için algoritmalar oluşturmak gereklidir. Birkaç analiz için algoritmalar oluşturduk fakat analiz için yapay zekayı da dahil ettik. Yapay zeka, verilerin analizi ve tavsiyeler için kullanılacaktır. Ayrıca, hava durumu sistemini de entegre ederek bulunduğu yerin hava durumunu analiz edip erken uyarılar verebiliriz.
+
+Bu proje, sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
+
+
+
+
+
+
+
   --- 
 
   <img src="bootcampFiles/team/sc/sprint.png" style="width: auto; height: 400px; text-align: center; border-radius: 50%;" >
