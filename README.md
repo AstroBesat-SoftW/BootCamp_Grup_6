@@ -1,5 +1,5 @@
 
-  <img src="bootcampFiles/team/img/app.png" style="width: auto; height: 300px;" >
+  <img src="bootcampFiles/team/img/app.png" style="width: auto; height: 500px;" >
 
 
   # Ekip ve Proje İsmi
