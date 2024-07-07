@@ -1,8 +1,6 @@
 <center>
-    <video width="640" height="360" controls>
-        <source src="bootcampFiles/team/movie/ecoguardian.mp4" type="video/mp4">
-        Tarayıcınız video etiketini desteklemiyor veya video formatı desteklenmiyor.
-    </video>
+   <iframe width="640" height="360" src="https://www.youtube.com/embed/XVZ0iFb3eQg" frameborder="0" allowfullscreen></iframe>
+
 </center>
  
   # Ekip ve Proje İsmi
