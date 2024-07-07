@@ -79,7 +79,7 @@
       <td colspan="4" style="text-align: center;"><h2>Esp8266 Uzaktan Kontrollu Sistemler</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun1.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun1.jpg" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Homepage and Location pages</h2></td>
