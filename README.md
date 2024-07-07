@@ -104,7 +104,7 @@
 <!--  uygulama için altı -->
 
 
-
+  <details>
     <summary><h3>Sprint 1 - Arduino ve Uygulama İçinden Görseller</h3></summary>
   <table style="width: 100%;">
     <tr>
@@ -151,7 +151,7 @@
    
 
 <!-- uygulama son -->
-
+</details>
 
   <details>
     <summary><h3>Sprint 1 - Burndown Chart</h3></summary>
