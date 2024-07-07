@@ -63,7 +63,7 @@
 
 <h1>Proje Tanıtımı ve İşleyişi</h1>
 
-•	Giriş
+<p>•	Giriş</p>
 
 İlk proje için belirli bir alan gerekli. Bunun için büyük bir alan yerine küçük bir alandan başlamak ve ardından büyüyen ağaç mantığında ilerlemek istedik. Bildiğiniz gibi, AVL ağaç mantığında üstsel bir yapı düşündük. Projemizi yaparken ilk olarak sorunları tespit etmemiz gerekti. Günümüz sorunlarından bazıları şunlardır:
 
