@@ -1,5 +1,5 @@
 
-[![Videoyu İzle](https://img.youtube.com/vi/-t-hdVaJIqs/0.jpg)](https://www.youtube.com/watch?v=-t-hdVaJIqs)
+[![Videoyu İzle](![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/ca6659b0-6e7c-449c-a33d-5779c9604d1a))](https://www.youtube.com/watch?v=-t-hdVaJIqs)
 
 
   # Ekip ve Proje İsmi
