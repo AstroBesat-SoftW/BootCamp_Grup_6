@@ -61,7 +61,7 @@
   </table>
 
 
-Proje Tanıtımı ve İşleyişi
+<h1>Proje Tanıtımı ve İşleyişi</h1>
 
 •	Giriş
 
