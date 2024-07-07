@@ -1,6 +1,73 @@
-<center><h1 style="font-size: 50px;">FloraNabız</h1></center>
-<hr>
-<br>
-asda
+<center><h1 style="font-size: 50px;">EcoGuardian  (Akıllı Bitki Bakım ve Koruma)</h1></center>
+# **Team & Product Name**
 
-![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/0b1c3c8f-c865-42fa-a964-1277ebd850df)
+  ### **`EcoGuardian`**
+
+  # Information About Team and Product
+
+  ## Team Members
+
+  <table>
+    <tr>
+      <th></th>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Socials</th>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/burak.png" width="50" height="50" /></td>
+      <td>Burak Taha Cevheroğlu</td>
+      <td>Scrum Master</td>
+      <td>
+        <a href="https://github.com/burakcevheroglu" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/burakcevheroglu/" target="_blank" ><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+        <a href="https://www.instagram.com/bburaktaha/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/arda.png" width="50" height="50" /></td>
+      <td>Arda Demirel</td>
+      <td>Product Owner</td>
+      <td>
+        <a href="https://github.com/demirelarda" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/arda-demirel-9020b8233/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/hazal.png" width="50" height="50" /></td>
+      <td>Dila Hazal Bilgin</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/dilahazalbilgin" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/dila-hazal-bilgin-5123b1258" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/merve.png" width="50" height="50" /></td>
+      <td>Merve Ağaçayak</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/merveaa" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/merve-ağaçayak-551293238/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="bootcampFiles/general/squarepics/onur.png" width="50" height="50" /></td>
+      <td>Onur Konuk</td>
+      <td>Developer</td>
+      <td>
+        <a href="https://github.com/ONUR603445" target="_blank"><img src="bootcampFiles/general/social/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/onur-konuk/" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+          <a href="https://www.instagram.com/onur___konuk" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+      </td>
+    </tr>
+    <tr>
+    <td><img src="bootcampFiles/general/squarepics/appicon.png" width="50" height="50" /></td>
+    <td>zaten</td>
+    <td>Startup</td>
+    <td>
+      <a href="https://www.linkedin.com/company/zatenapp" target="_blank"><img src="bootcampFiles/general/social/linkedin.png" width="20" height="20" /></a>
+      <a href="https://www.instagram.com/zaten.app/" target="_blank"><img src="bootcampFiles/general/social/instagram.png" width="20" height="20" /></a>
+    </td>
+  </tr>
+  </table>
