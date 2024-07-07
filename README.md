@@ -1,4 +1,4 @@
-[![Videoyu İzle](https://raw.githubusercontent.com/AstroBesat-SoftW/BootCamp_Grup_6/main/assets/128177174/ca6659b0-6e7c-449c-a33d-5779c9604d1a.png)](https://www.youtube.com/watch?v=-t-hdVaJIqs)
+[![Videoyu İzle](bootcampFiles/team/img/team1.png)](https://www.youtube.com/watch?v=XVZ0iFb3eQg)
 
 
   # Ekip ve Proje İsmi
@@ -21,7 +21,7 @@
       <td>Besat Arif Çıngar</td>
       <td>Product Owner</td>
       <td>
-        <a href="[https://www.linkedin.com/in/burakcevheroglu/](https://www.linkedin.com/in/besat-%C3%A7%C4%B1ngar-a63b46279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank" ><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
+        <a href="(https://www.linkedin.com/in/besat-%C3%A7%C4%B1ngar-a63b46279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank" ><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
       <td>Berin Irmak Arıkboğa</td>
       <td>Scrum Master</td>
       <td>
-        <a href="[https://www.linkedin.com/in/arda-demirel-9020b8233/](https://www.linkedin.com/in/berin-irmak-arıkboğa/)" target="_blank"><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
+        <a href="(https://www.linkedin.com/in/berin-irmak-arıkboğa/)" target="_blank"><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@
       <td>Berivan Dağcı</td>
       <td>Developer</td>
       <td>
-        <a href="[https://www.linkedin.com/in/dila-hazal-bilgin-5123b1258](https://www.linkedin.com/in/berivan-da%C4%9Fc%C4%B1-9993a7223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
+        <a href="(https://www.linkedin.com/in/berivan-da%C4%9Fc%C4%B1-9993a7223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
       </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@
       <td>Azra Ece Güney</td>
       <td>Developer</td>
       <td>
-       <a href="[https://www.linkedin.com/company/zatenapp](https://www.linkedin.com/in/azraeceg%C3%BCney?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
+       <a href="(https://www.linkedin.com/in/azraeceg%C3%BCney?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="bootcampFiles/team/sc/in.png" width="20" height="20" /></a>
       </td>
     </tr>
    
