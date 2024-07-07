@@ -1,5 +1,14 @@
-
-   <iframe width="640" height="360" src="https://www.youtube.com/embed/XVZ0iFb3eQg"></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Video</title>
+</head>
+<body>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/XVZ0iFb3eQg" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
 
  
   # Ekip ve Proje İsmi
