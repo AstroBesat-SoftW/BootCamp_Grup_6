@@ -62,7 +62,8 @@
 
   --- 
 
-  [![sprints](bootcampFiles/general/headers/sprints.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wsj.com%2Fvideo%2Fsprint-in-talks-to-buy-clearwire%2F2AC80F61-0267-4B5D-8491-868C6E457FC8&psig=AOvVaw2Zig7y70L6Sqg8KHgoRHQr&ust=1720439399482000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODBy7LulIcDFQAAAAAdAAAAABAh)
+![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/b10f4433-0a94-4c21-883f-06fcc876cd07)
+
 
   <details>
     <summary><h1>Sprint 1</h1></summary>
