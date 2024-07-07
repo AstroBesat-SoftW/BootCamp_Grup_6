@@ -76,13 +76,13 @@
     <summary><h3>Sprint 1 - Malzemeler</h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>ESP8266 WiFi bağlantısı sağlayan, mikrodenetleyici içeren ve geniş bir IoT uygulama yelpazesinde kullanılabilen bir entegre devredir.</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>ESP8266 WiFi bağlantısı sağlayan, mikrodenetleyici içeren ve geniş bir IoT uygulama yelpazesinde kullanılabilen bir entegre devredir. Bizlerde bu amaçla kullanacağız.</h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun1.jpg" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Bu sensörler ve daha pek çokları, ESP8266 platformu üzerinde çalışacak şekilde entegre edilebilir. Sensör verilerini ESP8266 üzerinde işleyerek, internete gönderebilir veya yerel ağ üzerinde diğer cihazlarla paylaşabilirsiniz. Bu da ESP8266'nın geniş bir uygulama yelpazesi ve esneklik sağlayan önemli bir özelliğidir.</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Bu sensörler ve daha pek çokları, ESP8266 platformu üzerinde çalışacak şekilde entegre edilebilir. Sensör verilerini ESP8266 üzerinde işleyerek, internete gönderebilir veya yerel ağ üzerinde diğer cihazlarla paylaşabilirsiniz. Bu da ESP8266'nın geniş bir uygulama yelpazesi ve esneklik sağlayan önemli bir özelliğidir. Bizim şuanlık aklımızdaki sensörler bunlar. 3 sensörüde denedik çalışıyor Fakat Fakat 3 sensor yerine 2 kullanmanın daha mantıklı olacağını düşünüyoruz. hangisi ile ilerleyebiliriz toplantılarımızdan sonra karar vereceğiz.</h2></td>
     </tr>
     <tr>
       <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun2.jpg" style="max-width: 100%; height: auto;"></td>
