@@ -1,8 +1,6 @@
- <div style="width: 60px; height: 35px;">
-  
-   [![Videoyu İzle](bootcampFiles/team/img/app.png)](https://www.youtube.com/watch?v=XVZ0iFb3eQg)
-   
-</div>
+
+  <img src="bootcampFiles/team/img/app.png" style="width: 60px; height: 35px;" >
+
 
   # Ekip ve Proje İsmi
 
