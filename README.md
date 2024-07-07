@@ -104,7 +104,10 @@ Kullanıcıya özgü işlemler yapmak için algoritmalar oluşturmak gereklidir.
     <summary><h3>•	Özet</h3></summary>
 
 <h3>Bu proje,</h3> sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
+<br>
+Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
 
+Hedef kitle bu sayede belirlenmiş olur.
 </details>
 
 
