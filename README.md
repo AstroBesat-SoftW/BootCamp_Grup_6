@@ -341,47 +341,23 @@ Hedef kitle bu sayede belirlenmiş olur.
 
 
   <details>
-    <summary><h3>Sprint 1 - Arduino ve Uygulama İçinden Görseller</h3></summary>
+    <summary><h3>Sprint 2 - Mobil Bu sprintte ekleden Ekran Görüntüsü </h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Sıcaklık ve Nem Verisinin Arduino (esp8266) ile firebase veri yollama kısmı</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Yapay zeka ile bitkinin verisi entegrasyonu. Yapay zeka bitki verilerine göre yorum ve analizde bulunup öneri veriyor.</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;">
-        
-  ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/4f0d6920-4a85-40bb-9ead-8375f074329c)
-</td>
+     <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil1.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil2.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil3.jpg" style="max-width: 100%; height: auto;"></td>
     </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Sensor ölçümlerini kod içinde kullanımı ve ayarlanması.</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;">
-        
-  ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/497e7d83-2c3a-4ce0-a42f-49ac12f35f65)
-</td>
-    </tr>
-       <tr>
-      <td colspan="4" style="text-align: center;"><h2>Uygulama Ölçülen verilerin Değerlerini Veritabanından Çekip ekranda gösterme</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app0.jpg" style="max-width: 100%; height: auto;"></td>
-    </tr>
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Sıcaklık ve Nem değerlerinin geçmiş takibi ve analizi</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app2.jpg" style="max-width: 100%; height: auto;"></td>
-        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app3.jpg" style="max-width: 100%; height: auto;"></td>
-    </tr>
- <tr>
-      <td colspan="4" style="text-align: center;"><h2>Kayıt Edilen Verilerin Verileri ve Grafikleri</h2></td>
-    </tr>
-    <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app4.jpg" style="max-width: 100%; height: auto;"></td>
-        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app5.jpg" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app6.jpg" style="max-width: 100%; height: auto;"></td>
-    </tr>
+ 
+   
+   
+ 
+
+
+   
  
   </table>
    
@@ -390,27 +366,30 @@ Hedef kitle bu sayede belirlenmiş olur.
 
 </details>
   <details>
-    <summary><h3>Sprint 1 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
-    <img src="bootcampFiles/sprint_1/sprint_1.jpg" style="max-width: 100%; height: auto;">
-   <img src="bootcampFiles/sprint_1/sprint_2.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/sprint_3.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/sprint_4.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_1.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_2.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_3.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_4.png" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/wp_5.png" style="max-width: 100%; height: auto;">
+    <summary><h3>Sprint 2 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
+    <img src="bootcampFiles/sprint_2/sc1.jpg" style="max-width: 100%; height: auto;">
+   <img src="bootcampFiles/sprint_2/sc2.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/sc3.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/sc4.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp1.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp2.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp3.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp4.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp5.jpg" style="max-width: 100%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp6.jpg" style="max-width: 100%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp7.jpg" style="max-width: 100%; height: auto;">
+       
   </details>
   
  <details>
-    <summary><h3>Sprint 1 - Devreler ve Deneme Aşamaları - Ek Görseller</h3></summary>
-    <img src="bootcampFiles/sprint_1/1.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_1/2.jpg" style="max-width: 100%; height: auto;">
-       <img src="bootcampFiles/sprint_1/3.jpg" style="max-width: 100%; height: auto;">
-      <img src="bootcampFiles/sprint_1/4.jpg" style="max-width: 100%; height: auto;">
-       <img src="bootcampFiles/sprint_1/5.jpg" style="max-width: 100%; height: auto;">
+    <summary><h3>Sprint 2 - UI Tasarım</h3></summary>
+    <img src="bootcampFiles/sprint_2/ui1.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/ui2.jpg" style="max-width: 100%; height: auto;">
+       <img src="bootcampFiles/sprint_2/ui3.jpg" style="max-width: 100%; height: auto;">
+
        
   </details>
+  
 
   - **Sprint Notları**:
     - Proje yönetimi için `Jira` kullanılmasına karar verildi.
