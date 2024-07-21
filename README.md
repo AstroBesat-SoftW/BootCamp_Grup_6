@@ -308,3 +308,192 @@ Hedef kitle bu sayede belirlenmiş olur.
   </details>
 
   ---
+
+  
+  <details>
+    <summary><h1>Sprint 2</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 1 - Malzemeler</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>ESP8266 WiFi bağlantısı sağlayan, mikrodenetleyici içeren ve geniş bir IoT uygulama yelpazesinde kullanılabilen bir entegre devredir. Bizlerde bu amaçla kullanacağız.</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun1.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Bu sensörler ve daha pek çokları, ESP8266 platformu üzerinde çalışacak şekilde entegre edilebilir. Sensör verilerini ESP8266 üzerinde işleyerek, internete gönderebilir veya yerel ağ üzerinde diğer cihazlarla paylaşabilirsiniz. Bu da ESP8266'nın geniş bir uygulama yelpazesi ve esneklik sağlayan önemli bir özelliğidir. Bizim şuanlık aklımızdaki sensörler bunlar. 3 sensörüde denedik çalışıyor Fakat Fakat 3 sensor yerine 2 kullanmanın daha mantıklı olacağını düşünüyoruz. hangisi ile ilerleyebiliriz toplantılarımızdan sonra karar vereceğiz.</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun2.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun3.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun4.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Örnek Olarak Diğer Malzemler</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun5.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/urun6.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+ 
+  </table>
+   
+ </details> 
+
+<!--  uygulama için altı -->
+
+
+  <details>
+    <summary><h3>Sprint 1 - Arduino ve Uygulama İçinden Görseller</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Sıcaklık ve Nem Verisinin Arduino (esp8266) ile firebase veri yollama kısmı</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;">
+        
+  ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/4f0d6920-4a85-40bb-9ead-8375f074329c)
+</td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Sensor ölçümlerini kod içinde kullanımı ve ayarlanması.</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;">
+        
+  ![image](https://github.com/AstroBesat-SoftW/BootCamp_Grup_6/assets/128177174/497e7d83-2c3a-4ce0-a42f-49ac12f35f65)
+</td>
+    </tr>
+       <tr>
+      <td colspan="4" style="text-align: center;"><h2>Uygulama Ölçülen verilerin Değerlerini Veritabanından Çekip ekranda gösterme</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app0.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Sıcaklık ve Nem değerlerinin geçmiş takibi ve analizi</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app2.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app3.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+ <tr>
+      <td colspan="4" style="text-align: center;"><h2>Kayıt Edilen Verilerin Verileri ve Grafikleri</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app4.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app5.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_1/app6.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+ 
+  </table>
+   
+
+<!-- uygulama son -->
+
+</details>
+  <details>
+    <summary><h3>Sprint 1 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
+    <img src="bootcampFiles/sprint_1/sprint_1.jpg" style="max-width: 100%; height: auto;">
+   <img src="bootcampFiles/sprint_1/sprint_2.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/sprint_3.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/sprint_4.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_1.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_2.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_3.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_4.png" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/wp_5.png" style="max-width: 100%; height: auto;">
+  </details>
+  
+ <details>
+    <summary><h3>Sprint 1 - Devreler ve Deneme Aşamaları - Ek Görseller</h3></summary>
+    <img src="bootcampFiles/sprint_1/1.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_1/2.jpg" style="max-width: 100%; height: auto;">
+       <img src="bootcampFiles/sprint_1/3.jpg" style="max-width: 100%; height: auto;">
+      <img src="bootcampFiles/sprint_1/4.jpg" style="max-width: 100%; height: auto;">
+       <img src="bootcampFiles/sprint_1/5.jpg" style="max-width: 100%; height: auto;">
+       
+  </details>
+
+  - **Sprint Notları**:
+    - Proje yönetimi için `Jira` kullanılmasına karar verildi.
+
+    - UI tasarımlarında `Figma` kullanılmasına karar verildi..
+
+    - Durum yönetimi için  `Riverpod` kullanılmasına karar verildi.
+
+    - `MVVM` yapısı kurulmuş olup, bu temelde ilerlenecektir.
+
+    - Veri Tabanı için `Firebase` düşünüldü.
+
+    - Giriş sistemi için `email login` kullanılmasına karar verildi.
+
+    - Giriş sisteminin ardından  `kimlik doğrulama` yapılmasına karar verildi.
+
+   
+  - **Sprint içinde beklenen Puan tamamlama**: 145 Puan 
+  - **Puan Tamamlama Mantığı**: `(95 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 200 puan, üçüncü sprintin ise 200 puandır. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlandı.
+  - **Daily Scrum**: Dosyaya bakın
+  - **Ürün İş Listesi URL'si:** İş Listesi için tıklayın <a href="https://berin-irmak.atlassian.net/jira/core/projects/YESIL/board">(Jira)</a>
+  - **Sprint Review:**
+    - Besat, Bilal, Berivan, arka yüz(backend) ve ön yüz (frontend) için koordineli bir çaba yürüttüler. Ekip içinde bir sonraki sprintte bu şekilde devam etme konusunda anlaştık.
+
+     - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesinde anlaştık.
+
+    - Bir süre uygulama adı konusunda karar vermekte zorlandık. 'bitkim'den 'FloraNabız'e geçtik ve isim için en son 'EcoGuardian: Akıllı Bitki Bakım ve Koruma' olarak kararkıldık bu konuda önemli adım daha atmış olduk.
+
+    - Bu sprintte karşılaştığımız en büyük iki sorun Tasarım ve Esp8266 ile firebase ilişkisidi.
+
+    - Arduino Kısmında Firebase kütüphanelerinde sorun ile karşılaştık fakat uzun uğraş ve araştırmalarımız doğruştutunsa kod geliştirdik. Bir kaç düzeltme ve çaba ile bunun üstesinden geldik.
+
+    -Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık Belirttiğimiz gibi Sınav haftalarımız olduğundan ekipçe tam bir ilerleyiş için ilk sprint puanımızı düşük tuttuk.
+   
+
+  - **Sprint Review Participants:** `Besat Arif Çıngar`, `Berin Irmak Arıkboğa`, `Berivan Dağcı`, `Azra Ece`, `Bilal Enes Söylemez`
+  - **Sprint Retrospective:**
+    - Mobil Kısmında Besat, Bilal ve Berivan'ın devam etmesine karar verdik.
+
+    - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesine karar verdik.
+
+    - İsim kısmını yeni sprintte netleştirmek için çalışmalara başladık.
+
+    - uygulama kısmında yapay zeka entegresi ve verilerin analizini ana hedeflerimiz arasına aldık.
+
+    - esp8266 kullanarak yaptığımız projenin tamamen devresinin oluşturulmasını yetişme durumuna göre tasarımın (Örnek Ürün) bitmesini hedefledik.
+
+    - firebase kısmında daha derin araştırma ve incelenmesini kararkaştırdık.
+
+    - Esp8266 Kısmında su dökme ve bunun kontrollü gibi işlemleri oluşturmak için algoritma oluşturmaya karar aldık.
+
+    - Flutter Kısmında esp8266 kısmından yolladığımız verilerin Daha işlevli kullanılması ve entegre kısmının güçlendirilmesini karar aldık.
+
+    - Tasarımın modernleşmesi ve kullanıcı odağının yüksek olması için daha modern tasarım oluşturmak için incelemeler başlattık.
+
+    - E-posta kimlik doğrulamasının yanı sıra ikinci sprintte Google kimlik doğrulama sisteminin eklenmesine karar verildi.
+
+
+
+  - **Diğer Notlar**:
+  <details>
+    <summary><h3>Ek Dosyalar</h3></summary>
+    <ul>
+      <li><strong>Proje Kapsamı ve Hedefleri</strong> <a href="./bootcampFiles/sprint_1/Proje Tanıtımı ve İşleyişi.pdf">Dosyayı İncele</a></li>
+   ><h3>•	Özet ve Hedef Kitle</h3>
+
+<h3>Bu proje,</h3> Sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
+<br>
+Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
+
+Hedef kitle bu sayede belirlenmiş olur.
+
+
+ <li><strong>Konuşmalar</strong> Yukarıda Paylaşıldı</li>
+    </ul>
+  </details>
+
+  </details>
+
+  ---
