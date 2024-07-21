@@ -246,7 +246,7 @@ Hedef kitle bu sayede belirlenmiş olur.
 
    
   - **Sprint içinde beklenen Puan tamamlama**: 145 Puan 
-  - **Puan Tamamlama Mantığı**: `(95 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 200 puan, üçüncü sprintin ise 200 puandır. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlandı.
+  - **Puan Tamamlama Mantığı**: `(95 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlandı.
   - **Daily Scrum**: Dosyaya bakın
   - **Ürün İş Listesi URL'si:** İş Listesi için tıklayın <a href="https://berin-irmak.atlassian.net/jira/core/projects/YESIL/board">(Jira)</a>
   - **Sprint Review:**
@@ -393,27 +393,27 @@ Hedef kitle bu sayede belirlenmiş olur.
   
 
   - **Sprint Notları**:
-    - Proje yönetimi için `Jira` kullanılmasına karar verildi.
+    - Yapay zeka entegeresi için `Openai` kullanılmasına karar verildi.
 
-    - UI tasarımlarında `Figma` kullanılmasına karar verildi..
+    - UI tasarımlarında `Figma` kullanıldı.
 
-    - Durum yönetimi için  `Riverpod` kullanılmasına karar verildi.
+    - Uygulama Menü Tasarımı Değişti  `Yeşil` Renk kullanılmasına karar verildi.
 
-    - `MVVM` yapısı kurulmuş olup, bu temelde ilerlenecektir.
+    - Uygulama ismi olarak `EcoGuardian` karar verildi.
 
-    - Veri Tabanı için `Firebase` düşünüldü.
+    - Veri Tabanı için `Firebase` kısmında ilerlendi.
 
-    - Giriş sistemi için `email login` kullanılmasına karar verildi.
+    - Arduino için `ESP8266` kullanılmasına karar verildi.
 
-    - Giriş sisteminin ardından  `kimlik doğrulama` yapılmasına karar verildi.
+    - ESP8266 ile uyumlu  `sensorler` kararlaştırıldı.
 
    
-  - **Sprint içinde beklenen Puan tamamlama**: 145 Puan 
-  - **Puan Tamamlama Mantığı**: `(95 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 200 puan, üçüncü sprintin ise 200 puandır. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlandı.
+  - **Sprint içinde beklenen Puan tamamlama**: 170 Puan 
+  - **Puan Tamamlama Mantığı**: `(150 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 170 puan. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlanmıştı. İkinci sprint için ise bazı ekip arkadaşlarımızın projeye ilerleme konusunda yaşanılan aksaklıklar tarafından beklenenden kısmı şekilde az gerçekleşti. Bu durum için düzeltme planları hazırlandı ve uygulanmaya koyuldu.
   - **Daily Scrum**: Dosyaya bakın
   - **Ürün İş Listesi URL'si:** İş Listesi için tıklayın <a href="https://berin-irmak.atlassian.net/jira/core/projects/YESIL/board">(Jira)</a>
   - **Sprint Review:**
-    - Besat, Bilal, Berivan, arka yüz(backend) ve ön yüz (frontend) için koordineli bir çaba yürüttüler. Ekip içinde bir sonraki sprintte bu şekilde devam etme konusunda anlaştık.
+    - Besat, arka yüz(backend) ve ön yüz (frontend) için koordineli bir çaba yürüttü. Ekip içinde bir sonraki sprintte bu şekilde devam etme konusunda anlaşıldı.
 
      - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesinde anlaştık.
 
