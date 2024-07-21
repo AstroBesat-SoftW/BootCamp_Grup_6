@@ -419,11 +419,11 @@ Hedef kitle bu sayede belirlenmiş olur.
      
      -Berivan Araştırma kısmında devam etmesi için anlaşıldı. 
 
-    - Yapay zeka kısmında OpenAI API'si kullanıldı ve uygulamaya entegre edildi. Her ne kadar başta zorlansakta Yeni gelen güncellemelerden yinede yaptık [Görsel eklendi].
+    - Yapay zeka kısmında OpenAI API'si kullanıldı ve uygulamaya entegre edildi. Her ne kadar başlangıçta yeni gelen güncellemelerden dolayı zorlansakta yinede yaptık [Görsel eklendi].
 
     - Bu sprintte karşılaştığımız en büyük üç sorun Yapay zeka entegresi, login kısmı ve devrenin oluşturulma kısmı oldu.
 
-    - Arduino kısmnda sıcaklık sensoru ve RGB led kısmında kontrolsuz volt ile bir kaç sorun yaşadık ardıncan doğru direnç kullanımı ile sorunu çözdük.
+    - Arduino kısmnda sıcaklık sensoru ve RGB led kısmında kontrolsuz volt ile bir kaç sorun yaşadık ardından doğru direnç kullanımı ile sorunu çözdük.
 
     -Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık Belirttiğimiz gibi Bir kaç ekip arkadaşımızın görevleri tam yapamamasından dolayı hedefimizden hafif düşük oldu ama yeni plan ile telafi ettik.
    
@@ -440,7 +440,7 @@ Hedef kitle bu sayede belirlenmiş olur.
 
     - uygulama kısmında yapay zeka entegresi ve verilerin analizini ana hedeflerimiz arasına almıştık bunun tasarımını güçlendirmek için hedef oluşturduk.
 
-    - esp8266 devremizde Verileri yollarken nasıl tarih formatında yollayabiliriz onu araştırma ve uygualama kararı aldık.
+    - esp8266 devremizde Verileri yollarken nasıl tarih formatında yollayabiliriz onu araştırma ve uygulama kararı aldık.
 
     - firebase kısmında hatalarımızı ve eksiklerimizi araştırma kararı aldık.
 
