@@ -326,7 +326,6 @@ Hedef kitle bu sayede belirlenmiş olur.
          <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun3.jpg" style="max-width: 100%; height: auto;"></td>
        <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun4.jpg" style="max-width: 100%; height: auto;"></td>
          <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun5.jpg" style="max-width: 100%; height: auto;"></td>
-       <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun6.jpg" style="max-width: 100%; height: auto;"></td>
     </tr>
     
       
