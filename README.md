@@ -449,6 +449,8 @@ Hedef kitle bu sayede belirlenmiş olur.
     - Tasarımın modernleşmesi ve kullanıcı odağının yüksek olması için daha modern tasarım oluşturmak için incelemeler başlattık [2].
 
     - E-posta kimlik doğrulamasının yanı sıra ikinci sprintte Google kimlik doğrulama sisteminin eklenmesine karar verildi [2. Sprintte kısmı bitti ama yarım kaldı].
+   
+    - Nasıl hava durumunu kullanıcıya haberdar edebiliriz bunun için hangi API veya ne kullanabiliriz bunu araştırma ve uygulamayı kararlaştırdık.
 
 
 
