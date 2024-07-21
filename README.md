@@ -341,7 +341,7 @@ Hedef kitle bu sayede belirlenmiş olur.
 
 
   <details>
-    <summary><h3>Sprint 2 - Mobil Bu sprintte ekleden Ekran Görüntüsü </h3></summary>
+    <summary><h3>Sprint 2 - Mobil kısmı. Bu sprintte yeni eklenen sayfaların Ekran Görüntüsü var.</h3></summary>
   <table style="width: 100%;">
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Yapay zeka ile bitkinin verisi entegrasyonu. Yapay zeka bitki verilerine göre yorum ve analizde bulunup öneri veriyor.</h2></td>
@@ -371,13 +371,14 @@ Hedef kitle bu sayede belirlenmiş olur.
    <img src="bootcampFiles/sprint_2/sc2.jpg" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprint_2/sc3.jpg" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprint_2/sc4.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp1.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp2.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp3.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp4.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp5.jpg" style="max-width: 100%; height: auto;">
-        <img src="bootcampFiles/sprint_2/wp6.jpg" style="max-width: 100%; height: auto;">
-        <img src="bootcampFiles/sprint_2/wp7.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp1.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp2.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp3.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp4.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp5.jpg" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp6.jpg" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp7.jpg" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp8.jpg" style="max-width: 50%; height: auto;">
        
   </details>
   
