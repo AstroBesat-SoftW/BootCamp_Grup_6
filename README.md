@@ -416,37 +416,39 @@ Hedef kitle bu sayede belirlenmiş olur.
     - Besat, arka yüz(backend) ve ön yüz (frontend) için koordineli bir çaba yürüttü. Ekip içinde bir sonraki sprintte bu şekilde devam etme konusunda anlaşıldı.
 
      - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesinde anlaştık.
+     
+     -Berivan Araştırma kısmında devam etmesi için anlaşıldı. 
 
-    - Bir süre uygulama adı konusunda karar vermekte zorlandık. 'bitkim'den 'FloraNabız'e geçtik ve isim için en son 'EcoGuardian: Akıllı Bitki Bakım ve Koruma' olarak kararkıldık bu konuda önemli adım daha atmış olduk.
+    - Yapay zeka kısmında OpenAI API'si kullanıldı ve uygulamaya entegre edildi. Her ne kadar başta zorlansakta Yeni gelen güncellemelerden yinede yaptık [Görsel eklendi].
 
-    - Bu sprintte karşılaştığımız en büyük iki sorun Tasarım ve Esp8266 ile firebase ilişkisidi.
+    - Bu sprintte karşılaştığımız en büyük üç sorun Yapay zeka entegresi, login kısmı ve devrenin oluşturulma kısmı oldu.
 
-    - Arduino Kısmında Firebase kütüphanelerinde sorun ile karşılaştık fakat uzun uğraş ve araştırmalarımız doğruştutunsa kod geliştirdik. Bir kaç düzeltme ve çaba ile bunun üstesinden geldik.
+    - Arduino kısmnda sıcaklık sensoru ve RGB led kısmında kontrolsuz volt ile bir kaç sorun yaşadık ardıncan doğru direnç kullanımı ile sorunu çözdük.
 
-    -Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık Belirttiğimiz gibi Sınav haftalarımız olduğundan ekipçe tam bir ilerleyiş için ilk sprint puanımızı düşük tuttuk.
+    -Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık Belirttiğimiz gibi Bir kaç ekip arkadaşımızın görevleri tam yapamamasından dolayı hedefimizden hafif düşük oldu ama yeni plan ile telafi ettik.
    
 
   - **Sprint Review Participants:** `Besat Arif Çıngar`, `Berin Irmak Arıkboğa`, `Berivan Dağcı`, `Azra Ece`, `Bilal Enes Söylemez`
   - **Sprint Retrospective:**
-    - Mobil Kısmında Besat, Bilal ve Berivan'ın devam etmesine karar verdik.
+    - Mobil Kısmında Besat'ın devam etmesine karar verdik.
 
     - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesine karar verdik.
 
-    - İsim kısmını yeni sprintte netleştirmek için çalışmalara başladık.
+    - Araştırma kısmında  Berivan'ın devam etmesine karar verdik.
 
-    - uygulama kısmında yapay zeka entegresi ve verilerin analizini ana hedeflerimiz arasına aldık.
+    - Logo kısmını yeni sprintte netleştirmek için çalışmalara başladık.
 
-    - esp8266 kullanarak yaptığımız projenin tamamen devresinin oluşturulmasını yetişme durumuna göre tasarımın (Örnek Ürün) bitmesini hedefledik.
+    - uygulama kısmında yapay zeka entegresi ve verilerin analizini ana hedeflerimiz arasına almıştık bunun tasarımını güçlendirmek için hedef oluşturduk.
 
-    - firebase kısmında daha derin araştırma ve incelenmesini kararkaştırdık.
+    - esp8266 devremizde Verileri yollarken nasıl tarih formatında yollayabiliriz onu araştırma ve uygualama kararı aldık.
 
-    - Esp8266 Kısmında su dökme ve bunun kontrollü gibi işlemleri oluşturmak için algoritma oluşturmaya karar aldık.
+    - firebase kısmında hatalarımızı ve eksiklerimizi araştırma kararı aldık.
 
-    - Flutter Kısmında esp8266 kısmından yolladığımız verilerin Daha işlevli kullanılması ve entegre kısmının güçlendirilmesini karar aldık.
+    - Flutter Kısmında esp8266 kısmından yolladığımız verilerin Daha işlevli kullanılması ve entegre kısmının güçlendirilmesini karar aldık [2].
 
-    - Tasarımın modernleşmesi ve kullanıcı odağının yüksek olması için daha modern tasarım oluşturmak için incelemeler başlattık.
+    - Tasarımın modernleşmesi ve kullanıcı odağının yüksek olması için daha modern tasarım oluşturmak için incelemeler başlattık [2].
 
-    - E-posta kimlik doğrulamasının yanı sıra ikinci sprintte Google kimlik doğrulama sisteminin eklenmesine karar verildi.
+    - E-posta kimlik doğrulamasının yanı sıra ikinci sprintte Google kimlik doğrulama sisteminin eklenmesine karar verildi [2. Sprintte kısmı bitti ama yarım kaldı].
 
 
 
