@@ -481,7 +481,7 @@ Hedef kitle bu sayede belirlenmiş olur.
 
 
   <details>
-    <summary><h3>Sprint 3 - Mobil Kısmı Güncellendi ve Son Tasarımlar Gerçkleşti.</h3></summary>
+    <summary><h3>Sprint 3 - Mobil Kısmı Güncellendi ve Son Tasarımlar Gerçekleşti.</h3></summary>
   <table style="width: 100%;">
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Uygulamamızın Güncel halini görsellere ekledim. Uygulamamızın çalışma mantığı Arduino kısmında ESP8266 modulü kullanıldı ve sensorler kullanıldı. Sensörler yarmıyla ölçülen veriler veritabanına yollanıldı oradan da uygulamadan çekildi. Oluşturduğumuz algoritmalar ilede güzel bir çalışma gerçekleştirildi.</h2></td>
@@ -511,14 +511,14 @@ Hedef kitle bu sayede belirlenmiş olur.
 
   <details>
     <summary><h3>Sprint 3 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
-    <img src="bootcampFiles/sprint_2/sc1.jpg" style="max-width: 100%; height: auto;">
-   <img src="bootcampFiles/sprint_2/sc2.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp1.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp2.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp3.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp4.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_2/wp5.jpg" style="max-width: 50%; height: auto;">
-        <img src="bootcampFiles/sprint_2/wp6.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/sc1.jpg" style="max-width: 100%; height: auto;">
+   <img src="bootcampFiles/sprint_3/sc2.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp1.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp2.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp3.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp4.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp5.jpg" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_3/wp6.jpg" style="max-width: 50%; height: auto;">
    
        
   </details>
@@ -527,66 +527,48 @@ Hedef kitle bu sayede belirlenmiş olur.
   
 
   - **Sprint Notları**:
-    - Yapay zeka entegeresi için `Openai` kullanılmasına karar verildi.
+    - Yapay zeka entegereli sayfamızın `Tasarım` kısmı güncellenilmesine karar verildi.
 
-    - UI tasarımlarında `Figma` kullanıldı.
+    - Uygulama için Özel videolar tasarlandı platform olarak `Canva` kullanıldı.
 
-    - Uygulama Menü Tasarımı Değişti  `Yeşil` Renk kullanılmasına karar verildi.
+    - Uygulama Menü Tasarımı Değişti  `Yeşil Tonları` Renk kullanılmasına karar verildi.
 
-    - Uygulama ismi olarak `EcoGuardian` karar verildi.
+    - Uygulama `Logosu` oluşturuldu ve karar verildi.
 
     - Veri Tabanı için `Firebase` kısmında ilerlendi.
 
-    - Arduino için `ESP8266` kullanılmasına karar verildi.
+    - Arduino için `ESP8266` kısmında ilerlendi.
 
-    - ESP8266 ile uyumlu  `sensorler` kararlaştırıldı.
+    - Uygulama için  `Adobe` ile ikonlar tasarlandı.
+
+    - Uygulama için  `Menülerde ve ikonlarda` güncellenmeye gidildi.
+
+    - Son kontroller ve uygulama için  `Testler` Yapıldı.
+   
+    - Uygulamayı anlatan Yaklaşık 1 dakika `Video` Hazırlandı. 
 
    
-  - **Sprint içinde beklenen Puan tamamlama**: 170 Puan 
-  - **Puan Tamamlama Mantığı**: `(150 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 170 puan. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlanmıştı. İkinci sprint için ise bazı ekip arkadaşlarımızın projeye ilerleme konusunda yaşanılan aksaklıklar tarafından beklenenden kısmı şekilde az gerçekleşti. Bu durum için düzeltme planları hazırlandı ve uygulanmaya koyuldu.
+  - **Sprint içinde beklenen Puan tamamlama**: 125 Puan  
+  - **Puan Tamamlama Mantığı**: `(110 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 170 puan ve son sprint 125 puan olarak ayarlandı. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlanmıştı. İkinci sprint için ise bazı ekip arkadaşlarımızın projeye ilerleme konusunda yaşanılan aksaklıklar tarafından beklenenden kısmı şekilde az gerçekleşti. Bu durum için düzeltme planları hazırlandı ve uygulanmaya koyuldu. Son sprint yani bu sprintte ise Projemizde ekip arkadaşlarımızın çıkması göz önnünde bulundurularak yeni plan oluşturuldu ve oluşturulan yeni plan Gerçekleştirildi. Proje sağ salim bitti. NOT: Puan sisteminde bilerek olması gerekenden fazla puan hedefledik. O yüzden kısmı olarak tamamlandı yazısı sadece üst aşama için geçerli normal seviyeye göre proje normal puandan daha fazla şekilde gerçekleştirildi.
   - **Daily Scrum**: Dosyaya bakın
   - **Ürün İş Listesi URL'si:** İş Listesi için tıklayın <a href="https://berin-irmak.atlassian.net/jira/core/projects/YESIL/board">(Jira)</a>
   - **Sprint Review:**
-    - Besat, arka yüz(backend) ve ön yüz (frontend) için koordineli bir çaba yürüttü. Ekip içinde bir sonraki sprintte bu şekilde devam etme konusunda anlaşıldı.
 
-     - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesinde anlaştık.
-     
-     -Berivan Araştırma kısmında devam etmesi için anlaşıldı. 
+    - Yapay zeka kısmında OpenAI API'si kullanılmıştı. Daha verimli ve gerçekci cevaplar vermesi için sensörler yardımıyla (gerçek ölçülen değerler) ile entegreli şekilde gerçekleşmesi sağlandı.
 
-    - Yapay zeka kısmında OpenAI API'si kullanıldı ve uygulamaya entegre edildi. Her ne kadar başlangıçta yeni gelen güncellemelerden dolayı zorlansakta yinede yaptık [Görsel eklendi].
+    - Bu sprintte karşılaştığımız en büyük sorun ekip arkadaşlarımızın 2-3 Tanesinin çekilmesi ve işlerinin olmasından dolayı tam verimli çalışamaması oldu.
 
-    - Bu sprintte karşılaştığımız en büyük üç sorun Yapay zeka entegresi, login kısmı ve devrenin oluşturulma kısmı oldu.
+    - Ölçülen veriler için (Sensörlerden gelen değerler) Bunun kullanıcıya daha düzgün verebilmek için algoritmalar oluşturduk. Algoritmalar analiz yapabiliyor ve kullanıyı deneyimini en iyi şekilde verimli kullanıyor.
 
-    - Arduino kısmnda sıcaklık sensoru ve RGB led kısmında kontrolsuz volt ile bir kaç sorun yaşadık ardından doğru direnç kullanımı ile sorunu çözdük.
-
-    -Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık Belirttiğimiz gibi Bir kaç ekip arkadaşımızın görevleri tam yapamamasından dolayı hedefimizden hafif düşük oldu ama yeni plan ile telafi ettik.
+    - Bitkimizin Uzaktan otomatik kontrol edilmesini sağlayabilen sistemler üzerine çalışıldı ve araştırmalar gerçkeleştirildi (Orn: Otomatik sulama. Kullanıcı önceden veri giriyor altına düştüğü veya üstüne çıktığı anda çalışan sistem).
+   
+    - Bitki sağlık yüzdesini gösteren algortima. (Ref: Nem ve Sıcaklık verileri ile aslında olması gereken arasındaki mutlak fark)
    
 
   - **Sprint Review Participants:** `Besat Arif Çıngar`, `Berin Irmak Arıkboğa`, `Berivan Dağcı`, `Azra Ece`, `Bilal Enes Söylemez`
   - **Sprint Retrospective:**
-    - Mobil Kısmında Besat'ın devam etmesine karar verdik.
-
-    - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesine karar verdik.
-
-    - Araştırma kısmında  Berivan'ın devam etmesine karar verdik.
-
-    - Logo kısmını yeni sprintte netleştirmek için çalışmalara başladık.
-
-    - uygulama kısmında yapay zeka entegresi ve verilerin analizini ana hedeflerimiz arasına almıştık bunun tasarımını güçlendirmek için hedef oluşturduk.
-
-    - esp8266 devremizde Verileri yollarken nasıl tarih formatında yollayabiliriz onu araştırma ve uygulama kararı aldık.
-
-    - firebase kısmında hatalarımızı ve eksiklerimizi araştırma kararı aldık.
-
-    - Flutter Kısmında esp8266 kısmından yolladığımız verilerin Daha işlevli kullanılması ve entegre kısmının güçlendirilmesini karar aldık [2].
-
-    - Tasarımın modernleşmesi ve kullanıcı odağının yüksek olması için daha modern tasarım oluşturmak için incelemeler başlattık [2].
-
-    - E-posta kimlik doğrulamasının yanı sıra ikinci sprintte Google kimlik doğrulama sisteminin eklenmesine karar verildi [2. Sprintte kısmı bitti ama yarım kaldı].
-   
-    - Nasıl hava durumunu kullanıcıya haberdar edebiliriz bunun için hangi API veya ne kullanabiliriz bunu araştırma ve uygulamayı kararlaştırdık.
-
-
+   - Yarışmada hedeflediğim planı gerçekleştirdik ve güzel uygulama çıkardık. Yaparken bir çok alanı tecrübe ettik (Arduino, sensörler, veritabanı, mobil uygulama, figma, ui...)
+    
 
   - **Diğer Notlar**:
   <details>
