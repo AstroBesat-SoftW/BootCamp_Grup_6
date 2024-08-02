@@ -565,7 +565,7 @@ Hedef kitle bu sayede belirlenmiş olur.
     - Bitki sağlık yüzdesini gösteren algortima. (Ref: Nem ve Sıcaklık verileri ile aslında olması gereken arasındaki mutlak fark)
    
 
-  - **Sprint Review Participants:** `Besat Arif Çıngar`, `Berin Irmak Arıkboğa`, `Berivan Dağcı`, `Azra Ece`, `Bilal Enes Söylemez`
+  - **Sprint Review Participants:** `Besat Arif Çıngar`, `Berin Irmak Arıkboğa`, `Azra Ece`
   - **Sprint Retrospective:**
    - Yarışmada hedeflediğim planı gerçekleştirdik ve güzel uygulama çıkardık. Yaparken bir çok alanı tecrübe ettik (Arduino, sensörler, veritabanı, mobil uygulama, figma, ui...)
     
