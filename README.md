@@ -513,12 +513,12 @@ Hedef kitle bu sayede belirlenmiş olur.
     <summary><h3>Sprint 3 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
     <img src="bootcampFiles/sprint_3/sc1.jpg" style="max-width: 100%; height: auto;">
    <img src="bootcampFiles/sprint_3/sc2.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_3/wp1.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_3/wp2.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_3/wp3.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_3/wp4.jpg" style="max-width: 50%; height: auto;">
-    <img src="bootcampFiles/sprint_3/wp5.jpg" style="max-width: 50%; height: auto;">
-        <img src="bootcampFiles/sprint_3/wp6.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp1.png" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp2.png" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp3.png" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp4.png" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_3/wp5.png" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_3/wp6.png" style="max-width: 50%; height: auto;">
    
        
   </details>
