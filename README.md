@@ -608,47 +608,36 @@ Hedef kitle bu sayede belirlenmiş olur.
 
   | Color             | Hex                                                                |
   | ----------------- | ------------------------------------------------------------------ |
-  | Primary Color | ![#FF9A4D](https://via.placeholder.com/10/FF9A4D?text=+) #FF9A4D |
+  | Primary Color | ![#8BC24A](https://via.placeholder.com/10/8BC24A?text=+) #8BC24A |
   | Light Color | ![#FFAB6B](https://via.placeholder.com/10/FFAB6B?text=+) #FFAB6B |
   | Lightest Color | ![#FFC08F](https://via.placeholder.com/10/FFC08F?text=+) #FFC08F |
   | Dark Color | ![#FF882C](https://via.placeholder.com/10/FF882C?text=+) #FF882C |
   | Darkest Color | ![#FF6F00](https://via.placeholder.com/10/FF6F00?text=+) #FF6F00 |
+  | Darkest Color | ![#FF6F00](https://via.placeholder.com/10/FF6F00?text=+) #FF6F00 |
 
 
-  # **Used Technologies**
-  **`(used technologies changed at third sprint)`**
-  - [x] `firebase_core`
+  # **Kullanılan Teknolojiler**
+  - [x] `cupertino_icons`
+  - [x] `flutter_launcher_icons`
+  - [x] `firebase_database`
+  - [x] `flutter_animation_progress_bar`
+  - [x] `wave_progress_widget`
+  - [x] `flutter_icons`
+  - [x] `marquee`
   - [x] `firebase_auth`
-  - [x] `cloud_firestore`
-  - [x] `flutter_riverpod`
-  - [x] `firebase_analytics`
-  - [x] `hive`
-  - [x] `hive_flutter`
-  - [x] `hive_generator`
-  - [x] `build_runner`
-  - [x] `another_stepper`
-  - [x] `flutter_animate`
-
-  - [x] `http`
-  - [x] `xml2json`
-
-  - [x] `get`
+  - [x] `charts_flutter`
+  - [x] `shared_preferences`
   - [x] `intl`
-  - [x] `uuid`
-  - [x] `freezed_annotation`
-  - [x] `cached_network_image`
-  - [x] `stream_chat_flutter`
-  - [x] `flutter_stripe`
-  - [x] `hooks_riverpod`
-  - [x] `rxdart`
-  - [x] `google_maps_flutter`
-  - [x] `google_sign_in`
-  - [x] `image_picker`
+
+  - [x] `syncfusion_flutter_charts`
+  - [x] `flutter_charts`
+
+  - [x] `animated_text_kit`
+  - [x] `flutter_sparkline`
+  - [x] `liquid_progress_indicator`
+  - [x] `percent_indicator`
   - [x] `geolocator`
-  - [x] `qr_flutter`
-  - [x] `qr_code_scanner`
-  - [x] `onesignal_flutter`
-  - [x] `flutter_markdown`
+  - [x] `video_player`
   </body>
   </html>
 
