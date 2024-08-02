@@ -591,3 +591,64 @@ Hedef kitle bu sayede belirlenmiş olur.
   </details>
 
   ---
+
+  ---
+  ![details](bootcampFiles/general/headers/details.png)
+
+  # Bootcamp'ın Sonu
+  ## Uygulama Tanıtımı
+  [![App Teaser](https://img.youtube.com/vi/olmdnBTyMek/maxresdefault.jpg)](https://www.youtube.com/watch?v=olmdnBTyMek)
+
+  ## APK File
+  See APK File
+
+
+  # Color Reference
+  **`(color palette changed at second sprint)`**
+
+  | Color             | Hex                                                                |
+  | ----------------- | ------------------------------------------------------------------ |
+  | Primary Color | ![#FF9A4D](https://via.placeholder.com/10/FF9A4D?text=+) #FF9A4D |
+  | Light Color | ![#FFAB6B](https://via.placeholder.com/10/FFAB6B?text=+) #FFAB6B |
+  | Lightest Color | ![#FFC08F](https://via.placeholder.com/10/FFC08F?text=+) #FFC08F |
+  | Dark Color | ![#FF882C](https://via.placeholder.com/10/FF882C?text=+) #FF882C |
+  | Darkest Color | ![#FF6F00](https://via.placeholder.com/10/FF6F00?text=+) #FF6F00 |
+
+
+  # **Used Technologies**
+  **`(used technologies changed at third sprint)`**
+  - [x] `firebase_core`
+  - [x] `firebase_auth`
+  - [x] `cloud_firestore`
+  - [x] `flutter_riverpod`
+  - [x] `firebase_analytics`
+  - [x] `hive`
+  - [x] `hive_flutter`
+  - [x] `hive_generator`
+  - [x] `build_runner`
+  - [x] `another_stepper`
+  - [x] `flutter_animate`
+
+  - [x] `http`
+  - [x] `xml2json`
+
+  - [x] `get`
+  - [x] `intl`
+  - [x] `uuid`
+  - [x] `freezed_annotation`
+  - [x] `cached_network_image`
+  - [x] `stream_chat_flutter`
+  - [x] `flutter_stripe`
+  - [x] `hooks_riverpod`
+  - [x] `rxdart`
+  - [x] `google_maps_flutter`
+  - [x] `google_sign_in`
+  - [x] `image_picker`
+  - [x] `geolocator`
+  - [x] `qr_flutter`
+  - [x] `qr_code_scanner`
+  - [x] `onesignal_flutter`
+  - [x] `flutter_markdown`
+  </body>
+  </html>
+
