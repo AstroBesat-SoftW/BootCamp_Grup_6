@@ -593,27 +593,29 @@ Hedef kitle bu sayede belirlenmiş olur.
   ---
 
   ---
-  ![details](bootcampFiles/general/headers/details.png)
+  ![image](https://github.com/user-attachments/assets/bf566fa5-35ec-4535-a2b9-a5ade66c8e58)
 
   # Bootcamp'ın Sonu
   ## Uygulama Tanıtımı
-  [![App Teaser](https://img.youtube.com/vi/olmdnBTyMek/maxresdefault.jpg)](https://www.youtube.com/watch?v=olmdnBTyMek)
+  [![App Teaser](![WhatsApp Görsel 2024-08-01 saat 23 21 34_1cf7117c](https://github.com/user-attachments/assets/5bbdaabc-cba0-4feb-bb85-b53142f2b67e)
+)](https://youtu.be/10zfIV3QBVA?si=8ZovOx8n5bzKVzMy)
 
-  ## APK File
-  See APK File
+  ## APK DOSYASI
+ APK DOSYASINI GÖR
 
 
-  # Color Reference
-  **`(color palette changed at second sprint)`**
+  # Referans Renkler
+  **`(Kullandığımız renklerin genel hatları)`**
 
   | Color             | Hex                                                                |
   | ----------------- | ------------------------------------------------------------------ |
-  | Primary Color | ![#8BC24A](https://via.placeholder.com/10/8BC24A?text=+) #8BC24A |
-  | Light Color | ![#FFAB6B](https://via.placeholder.com/10/FFAB6B?text=+) #FFAB6B |
-  | Lightest Color | ![#FFC08F](https://via.placeholder.com/10/FFC08F?text=+) #FFC08F |
-  | Dark Color | ![#FF882C](https://via.placeholder.com/10/FF882C?text=+) #FF882C |
-  | Darkest Color | ![#FF6F00](https://via.placeholder.com/10/FF6F00?text=+) #FF6F00 |
-  | Darkest Color | ![#FF6F00](https://via.placeholder.com/10/FF6F00?text=+) #FF6F00 |
+  | Menü Rengi | ![#8BC24A](https://via.placeholder.com/10/8BC24A?text=+) #8BC24A |
+  | Yazı Renkleri [1] | ![#21631B](https://via.placeholder.com/10/21631B?text=+) #21631B |
+  | Diğer Kullanılan Renkler | ![#AED582](https://via.placeholder.com/10/AED582text=+) #AED582 |
+  | Diğer Kullanılan Renkler | ![#43A047](https://via.placeholder.com/10/#43A047text=+) #43A047 |
+   | Diğer Kullanılan Renkler | ![#000000](https://via.placeholder.com/10/000000text=+) #000000 |
+     | Diğer Kullanılan Renkler | ![#FCFEFF](https://via.placeholder.com/10/FCFEFFtext=+) #FCFEFF |
+  
 
 
   # **Kullanılan Teknolojiler**
