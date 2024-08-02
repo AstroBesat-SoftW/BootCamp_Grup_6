@@ -484,14 +484,17 @@ Hedef kitle bu sayede belirlenmiş olur.
     <summary><h3>Sprint 3 - Mobil Kısmı Güncellendi ve Son Tasarımlar Gerçkleşti.</h3></summary>
   <table style="width: 100%;">
     <tr>
-      <td colspan="4" style="text-align: center;"><h2>Oluşturulan projede esp8266, sıcaklık, nem sensorleri ek olarak RGB led ve DC su pompası yer almaktadır. Bir bitkinin ihtiyacı olan her türlü işlem düşünülmüştür.</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Uygulamamızın Güncel halini görsellere ekledim. Uygulamamızın çalışma mantığı Arduino kısmında ESP8266 modulü kullanıldı ve sensorler kullanıldı. Sensörler yarmıyla ölçülen veriler veritabanına yollanıldı oradan da uygulamadan çekildi. Oluşturduğumuz algoritmalar ilede güzel bir çalışma gerçekleştirildi.</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun1.jpg" style="max-width: 100%; height: auto;"></td>
-       <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun2.jpg" style="max-width: 100%; height: auto;"></td>
-         <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun3.jpg" style="max-width: 100%; height: auto;"></td>
-       <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun4.jpg" style="max-width: 100%; height: auto;"></td>
-         <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun5.jpg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil1.jpg" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil2.jpg" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil3.jpg" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil4.jpg" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil5.jpg" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil6.jpg" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil7.jpg" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="bootcampFiles/sprint_3/mobil8.jpg" style="max-width: 100%; height: auto;"></td>
     </tr>
     
       
@@ -507,55 +510,20 @@ Hedef kitle bu sayede belirlenmiş olur.
 
 
   <details>
-    <summary><h3>Sprint 2 - Mobil kısmı. Bu sprintte yeni eklenen sayfaların Ekran Görüntüsü var.</h3></summary>
-  <table style="width: 100%;">
-    <tr>
-      <td colspan="4" style="text-align: center;"><h2>Yapay zeka ile bitkinin verisi entegrasyonu. Yapay zeka bitki verilerine göre yorum ve analizde bulunup öneri veriyor.</h2></td>
-    </tr>
-    <tr>
-     <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil1.jpg" style="max-width: 100%; height: auto;"></td>
-        <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil2.jpg" style="max-width: 100%; height: auto;"></td>
-        <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil3.jpg" style="max-width: 100%; height: auto;"></td>
-    </tr>
- 
-   
-   
- 
-
-
-   
- 
-  </table>
-   
-
-<!-- uygulama son -->
-
-</details>
-  <details>
-    <summary><h3>Sprint 2 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
+    <summary><h3>Sprint 3 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
     <img src="bootcampFiles/sprint_2/sc1.jpg" style="max-width: 100%; height: auto;">
    <img src="bootcampFiles/sprint_2/sc2.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/sc3.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/sc4.jpg" style="max-width: 100%; height: auto;">
     <img src="bootcampFiles/sprint_2/wp1.jpg" style="max-width: 50%; height: auto;">
     <img src="bootcampFiles/sprint_2/wp2.jpg" style="max-width: 50%; height: auto;">
     <img src="bootcampFiles/sprint_2/wp3.jpg" style="max-width: 50%; height: auto;">
     <img src="bootcampFiles/sprint_2/wp4.jpg" style="max-width: 50%; height: auto;">
     <img src="bootcampFiles/sprint_2/wp5.jpg" style="max-width: 50%; height: auto;">
         <img src="bootcampFiles/sprint_2/wp6.jpg" style="max-width: 50%; height: auto;">
-        <img src="bootcampFiles/sprint_2/wp7.jpg" style="max-width: 50%; height: auto;">
-        <img src="bootcampFiles/sprint_2/wp8.jpg" style="max-width: 50%; height: auto;">
+   
        
   </details>
   
- <details>
-    <summary><h3>Sprint 2 - UI Tasarım</h3></summary>
-    <img src="bootcampFiles/sprint_2/ui1.jpg" style="max-width: 100%; height: auto;">
-    <img src="bootcampFiles/sprint_2/ui2.jpg" style="max-width: 100%; height: auto;">
-       <img src="bootcampFiles/sprint_2/ui3.jpg" style="max-width: 100%; height: auto;">
 
-       
-  </details>
   
 
   - **Sprint Notları**:
