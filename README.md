@@ -613,8 +613,8 @@ Hedef kitle bu sayede belirlenmiş olur.
   | Yazı Renkleri [1] | ![#21631B](https://via.placeholder.com/10/21631B?text=+) #21631B |
   | Diğer Kullanılan Renkler | ![#AED582](https://via.placeholder.com/10/AED582text=+) #AED582 |
   | Diğer Kullanılan Renkler | ![#43A047](https://via.placeholder.com/10/#43A047text=+) #43A047 |
-   | Diğer Kullanılan Renkler | ![#000000](https://via.placeholder.com/10/000000text=+) #000000 |
-     | Diğer Kullanılan Renkler | ![#FCFEFF](https://via.placeholder.com/10/FCFEFFtext=+) #FCFEFF |
+  | Diğer Kullanılan Renkler | ![#000000](https://via.placeholder.com/10/000000text=+) #000000 |
+  | Diğer Kullanılan Renkler | ![#FCFEFF](https://via.placeholder.com/10/FCFEFFtext=+) #FCFEFF |
   
 
 
