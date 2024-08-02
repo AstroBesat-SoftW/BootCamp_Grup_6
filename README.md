@@ -603,6 +603,8 @@ Hedef kitle bu sayede belirlenmiş olur.
   ## APK DOSYASI
  APK DOSYASINI GÖR
 
+ <a href="https://drive.google.com/file/d/11rsVvkIcrO4ZThkxA4hz6Lsfzk9gYBTw/view?usp=sharing">Linke Tıkla </a>
+
 
   # Referans Renkler
   **`(Kullandığımız renklerin genel hatları)`**
