@@ -475,3 +475,169 @@ Hedef kitle bu sayede belirlenmiş olur.
   </details>
 
   ---
+  
+  <details>
+    <summary><h1>Sprint 3</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 3 - Mobil Kısmı Güncellendi ve Son Tasarımlar Gerçkleşti.</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Oluşturulan projede esp8266, sıcaklık, nem sensorleri ek olarak RGB led ve DC su pompası yer almaktadır. Bir bitkinin ihtiyacı olan her türlü işlem düşünülmüştür.</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun1.jpg" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun2.jpg" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun3.jpg" style="max-width: 100%; height: auto;"></td>
+       <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun4.jpg" style="max-width: 100%; height: auto;"></td>
+         <td style="width: 25%;"><img src="bootcampFiles/sprint_2/urun5.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    
+      
+  
+ 
+  
+ 
+  </table>
+   
+ </details> 
+
+<!--  uygulama için altı -->
+
+
+  <details>
+    <summary><h3>Sprint 2 - Mobil kısmı. Bu sprintte yeni eklenen sayfaların Ekran Görüntüsü var.</h3></summary>
+  <table style="width: 100%;">
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Yapay zeka ile bitkinin verisi entegrasyonu. Yapay zeka bitki verilerine göre yorum ve analizde bulunup öneri veriyor.</h2></td>
+    </tr>
+    <tr>
+     <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil1.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil2.jpg" style="max-width: 100%; height: auto;"></td>
+        <td style="width: 25%;"><img src="bootcampFiles/sprint_2/mobil3.jpg" style="max-width: 100%; height: auto;"></td>
+    </tr>
+ 
+   
+   
+ 
+
+
+   
+ 
+  </table>
+   
+
+<!-- uygulama son -->
+
+</details>
+  <details>
+    <summary><h3>Sprint 2 - Sprint Panosu Güncelleme Ekran Görüntüleri</h3></summary>
+    <img src="bootcampFiles/sprint_2/sc1.jpg" style="max-width: 100%; height: auto;">
+   <img src="bootcampFiles/sprint_2/sc2.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/sc3.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/sc4.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp1.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp2.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp3.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp4.jpg" style="max-width: 50%; height: auto;">
+    <img src="bootcampFiles/sprint_2/wp5.jpg" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp6.jpg" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp7.jpg" style="max-width: 50%; height: auto;">
+        <img src="bootcampFiles/sprint_2/wp8.jpg" style="max-width: 50%; height: auto;">
+       
+  </details>
+  
+ <details>
+    <summary><h3>Sprint 2 - UI Tasarım</h3></summary>
+    <img src="bootcampFiles/sprint_2/ui1.jpg" style="max-width: 100%; height: auto;">
+    <img src="bootcampFiles/sprint_2/ui2.jpg" style="max-width: 100%; height: auto;">
+       <img src="bootcampFiles/sprint_2/ui3.jpg" style="max-width: 100%; height: auto;">
+
+       
+  </details>
+  
+
+  - **Sprint Notları**:
+    - Yapay zeka entegeresi için `Openai` kullanılmasına karar verildi.
+
+    - UI tasarımlarında `Figma` kullanıldı.
+
+    - Uygulama Menü Tasarımı Değişti  `Yeşil` Renk kullanılmasına karar verildi.
+
+    - Uygulama ismi olarak `EcoGuardian` karar verildi.
+
+    - Veri Tabanı için `Firebase` kısmında ilerlendi.
+
+    - Arduino için `ESP8266` kullanılmasına karar verildi.
+
+    - ESP8266 ile uyumlu  `sensorler` kararlaştırıldı.
+
+   
+  - **Sprint içinde beklenen Puan tamamlama**: 170 Puan 
+  - **Puan Tamamlama Mantığı**: `(150 kısmi olarak tamamlandı)` İlk sprintin hedefi 145 puan, ikinci sprintin 170 puan. Okullarımızda sınav dönemi olması ve takım üyelerinin çoğunun sınavlarının olması nedeniyle ilk sprint için daha düşük puan hedefi belirlendi ve bu durumun telafisi olarak B planı hazırlanmıştı. İkinci sprint için ise bazı ekip arkadaşlarımızın projeye ilerleme konusunda yaşanılan aksaklıklar tarafından beklenenden kısmı şekilde az gerçekleşti. Bu durum için düzeltme planları hazırlandı ve uygulanmaya koyuldu.
+  - **Daily Scrum**: Dosyaya bakın
+  - **Ürün İş Listesi URL'si:** İş Listesi için tıklayın <a href="https://berin-irmak.atlassian.net/jira/core/projects/YESIL/board">(Jira)</a>
+  - **Sprint Review:**
+    - Besat, arka yüz(backend) ve ön yüz (frontend) için koordineli bir çaba yürüttü. Ekip içinde bir sonraki sprintte bu şekilde devam etme konusunda anlaşıldı.
+
+     - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesinde anlaştık.
+     
+     -Berivan Araştırma kısmında devam etmesi için anlaşıldı. 
+
+    - Yapay zeka kısmında OpenAI API'si kullanıldı ve uygulamaya entegre edildi. Her ne kadar başlangıçta yeni gelen güncellemelerden dolayı zorlansakta yinede yaptık [Görsel eklendi].
+
+    - Bu sprintte karşılaştığımız en büyük üç sorun Yapay zeka entegresi, login kısmı ve devrenin oluşturulma kısmı oldu.
+
+    - Arduino kısmnda sıcaklık sensoru ve RGB led kısmında kontrolsuz volt ile bir kaç sorun yaşadık ardından doğru direnç kullanımı ile sorunu çözdük.
+
+    -Genel olarak, iyi bir sprint süreci geçirdiğimize inanıyoruz. Planladığımıza yakın bir sprint süreci yaşadık Belirttiğimiz gibi Bir kaç ekip arkadaşımızın görevleri tam yapamamasından dolayı hedefimizden hafif düşük oldu ama yeni plan ile telafi ettik.
+   
+
+  - **Sprint Review Participants:** `Besat Arif Çıngar`, `Berin Irmak Arıkboğa`, `Berivan Dağcı`, `Azra Ece`, `Bilal Enes Söylemez`
+  - **Sprint Retrospective:**
+    - Mobil Kısmında Besat'ın devam etmesine karar verdik.
+
+    - Uİ/Ux Design kısmında Berin ve Azra'nın devam etmesine karar verdik.
+
+    - Araştırma kısmında  Berivan'ın devam etmesine karar verdik.
+
+    - Logo kısmını yeni sprintte netleştirmek için çalışmalara başladık.
+
+    - uygulama kısmında yapay zeka entegresi ve verilerin analizini ana hedeflerimiz arasına almıştık bunun tasarımını güçlendirmek için hedef oluşturduk.
+
+    - esp8266 devremizde Verileri yollarken nasıl tarih formatında yollayabiliriz onu araştırma ve uygulama kararı aldık.
+
+    - firebase kısmında hatalarımızı ve eksiklerimizi araştırma kararı aldık.
+
+    - Flutter Kısmında esp8266 kısmından yolladığımız verilerin Daha işlevli kullanılması ve entegre kısmının güçlendirilmesini karar aldık [2].
+
+    - Tasarımın modernleşmesi ve kullanıcı odağının yüksek olması için daha modern tasarım oluşturmak için incelemeler başlattık [2].
+
+    - E-posta kimlik doğrulamasının yanı sıra ikinci sprintte Google kimlik doğrulama sisteminin eklenmesine karar verildi [2. Sprintte kısmı bitti ama yarım kaldı].
+   
+    - Nasıl hava durumunu kullanıcıya haberdar edebiliriz bunun için hangi API veya ne kullanabiliriz bunu araştırma ve uygulamayı kararlaştırdık.
+
+
+
+  - **Diğer Notlar**:
+  <details>
+    <summary><h3>Ek Dosyalar</h3></summary>
+    <ul>
+      <li><strong>Proje Kapsamı ve Hedefleri</strong> <a href="./bootcampFiles/sprint_1/Proje Tanıtımı ve İşleyişi.pdf">Dosyayı İncele</a></li>
+   ><h3>•	Özet ve Hedef Kitle</h3>
+
+<h3>Bu proje,</h3> Sensörler, veri tabanları, yapay zeka ve hava durumu sistemleri gibi farklı teknolojileri bir araya getirerek bitkilerin sağlıklı kalmasını sağlamayı hedeflemektedir.
+<br>
+Bu proje, sadece ekinler için değil, bahçemizdeki küçük bir alan veya evdeki saksılar için de kullanılabilir. Bu sayede her alanda uygulama imkanı sunmaktadır.
+
+Hedef kitle bu sayede belirlenmiş olur.
+
+
+ <li><strong>Konuşmalar</strong> Yukarıda Paylaşıldı</li>
+    </ul>
+  </details>
+
+  </details>
+
+  ---
