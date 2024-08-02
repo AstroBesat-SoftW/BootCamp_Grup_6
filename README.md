@@ -596,7 +596,7 @@ Hedef kitle bu sayede belirlenmiş olur.
   ![image](https://github.com/user-attachments/assets/bf566fa5-35ec-4535-a2b9-a5ade66c8e58)
 
   # Bootcamp'ın Sonu
-  ## Uygulama Tanıtımı
+  ## Uygulama Tanıtımı (GÖRSELE TIKLA)
   [![App Teaser](![WhatsApp Görsel 2024-08-01 saat 23 21 34_1cf7117c](https://github.com/user-attachments/assets/5bbdaabc-cba0-4feb-bb85-b53142f2b67e)
 )](https://youtu.be/10zfIV3QBVA?si=8ZovOx8n5bzKVzMy)
 
@@ -607,7 +607,7 @@ Hedef kitle bu sayede belirlenmiş olur.
   # Referans Renkler
   **`(Kullandığımız renklerin genel hatları)`**
 
-  | Color             | Hex                                                                |
+  | Renk             | Kodu                                                                |
   | ----------------- | ------------------------------------------------------------------ |
   | Menü Rengi | ![#8BC24A](https://via.placeholder.com/10/8BC24A?text=+) #8BC24A |
   | Yazı Renkleri [1] | ![#21631B](https://via.placeholder.com/10/21631B?text=+) #21631B |
