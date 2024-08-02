@@ -1,1 +1,0 @@
-besat arif çıngara aittir
