@@ -506,7 +506,7 @@ Hedef kitle bu sayede belirlenmiş olur.
    
  </details> 
 
-<!--  uygulama için altı -->
+<!--  uygulama için altıı -->
 
 
   <details>
