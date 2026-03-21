@@ -1,6 +1,6 @@
 
   <img src="bootcampFiles/team/img/app.png" style="width: auto; height: 500px;" >
- ![65106165-630e-410b-be7e-dcc5c7736bcb](https://github.com/user-attachments/assets/b03b1f90-01ce-452d-8f18-2fb74dc00382)
+<img width="1593" height="858" alt="image" src="https://github.com/user-attachments/assets/63f3721a-f323-444c-8da2-c92bbb318265" />
 
 
   # Ekip ve Proje İsmi
